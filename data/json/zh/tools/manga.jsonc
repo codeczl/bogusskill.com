@@ -1,0 +1,86 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+    {
+        "name": "木の実マスター - 第一卷",
+        "description": "拥有‘坚果大师’技能的男孩光，踏上了意外的农耕之路。然而，他成为伟大冒险家的梦想在发现技能的真正潜力后发生了转变。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000357857",
+        "tags": ["漫画"]
+      },
+      {
+        "name": "木の実マスター - 第二卷",
+        "description": "光开始意识到‘坚果大师’技能不仅仅是为了农耕，而是蕴藏着隐藏的潜力。随着新角色的加入，故事也开始走向更加冒险的方向。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000361604",
+        "tags": ["漫画"]
+      },
+      {
+        "name": "木の実マスター - 第三卷",
+        "description": "光的冒险继续，他面临吃下第二个技能果实的后果。随着他逐步了解自己的技能，冒险与危险之间的界限变得越来越模糊。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000366459",
+        "tags": ["漫画"]
+      },
+      {
+        "name": "木の実マスター - 第四卷",
+        "description": "光的冒险升级，他发现了‘坚果大师’技能的真正力量，解锁了新的能力，这些能力挑战了他作为冒险家的身份。故事深入探讨了获得如此强大技能的后果。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000370607",
+        "tags": ["漫画"]
+      },
+      {
+        "name": "木の実マスター - 第五卷",
+        "description": "本卷探讨了光对‘坚果大师’技能真正本质的日益理解。如今面对新的挑战，光必须面对他过去的决定，并准备迎接一场将考验他力量和决心的战斗。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000375339",
+        "tags": ["漫画"]
+      },
+      {
+        "name": "木の実マスター - 第六卷",
+        "description": "光的力量被推到了极限，他面临更加严峻的危险。随着光的成长，‘坚果大师’技能背后的秘密开始揭开，为一场史诗般的对决铺路。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000387204",
+        "tags": ["漫画"]
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+    // A
+  
+    // B
+    // C
+    // D
+    // E
+    // F
+    // G
+  
+    // H
+    // I
+    // J
+    // K
+    // L
+    // M
+    // N
+    // O
+    // P
+  
+  
+    // W
+    // X
+    // Y
+    // Z
+  ]

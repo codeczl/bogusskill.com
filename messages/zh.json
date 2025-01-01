@@ -1,9 +1,130 @@
 {
   "home": {
-    "meta_title": "DevToolset: 开源、无数据库架构的开发者工具资源导航平台",
-    "meta_description": "在这里找到您在开发旅程中需要的每一种开发者工具",
-    "h2": "开源、无数据库架构的开发者工具资源导航平台",
-    "description": "在这里找到您在开发旅程中需要的每一种开发者工具"
+    "meta_title": "虚假技能",
+    "meta_description": "深入虚假技能的精彩世界",
+    "h2": "欢迎来到虚假技能的世界",
+    "description": "探索果实大师的漫画与动画冒险",
+    "hero": {
+      "title": "欢迎来到虚假技能的世界",
+      "description": "投身虚假技能的精彩冒险！从果实大师漫画到最新动画剧集，探索虚假技能宇宙的一切。",
+      "read_manga": "阅读漫画",
+      "watch_anime": "观看动画",
+      "join_community": "加入虚假技能社区"
+    },
+    "about": {
+      "title": "关于虚假技能",
+      "description_1": "《虚假技能》是一部探索独特冒险的漫画和动画系列。故事讲述了一个获得神秘果实大师技能的角色，这个看似无用的能力在虚假技能的世界中变得极其重要。",
+      "description_2": "由富有想象力的团队创作，这个系列以其不可预测的转折和引人入胜的世界观赢得了全球粉丝的心。",
+      "features_title": "虚假技能的主要特点",
+      "feature_1": {
+        "title": "创新的故事情节",
+        "description": "在虚假技能的世界中发现充满惊喜、独特技能和史诗战斗的故事。"
+      },
+      "feature_2": {
+        "title": "独特的世界观",
+        "description": "深入一个即使最意想不到的技能也能改变角色命运的世界。"
+      }
+    },
+    "latest": {
+      "title": "虚假技能最新剧集与章节",
+      "episodes": [
+        {
+          "title": "第1集 - 虚假技能：果实大师",
+          "date": "2025年1月1日发布",
+          "action": "立即观看"
+        },
+        {
+          "title": "第15章 - 力量之果",
+          "date": "2024年12月25日发布",
+          "action": "阅读漫画"
+        },
+        {
+          "title": "第2集 - 大师归来",
+          "date": "2025年1月8日发布",
+          "action": "立即观看"
+        }
+      ]
+    },
+    "news": {
+      "title": "虚假技能最新动态",
+      "items": [
+        {
+          "title": "虚假技能动画新集明日上线",
+          "description": "准备好迎接动画系列的另一精彩集数！看看虚假技能的精彩世界接下来会发生什么。",
+          "action": "阅读更多"
+        },
+        {
+          "title": "虚假技能漫画达到100章！",
+          "description": "我们深受喜爱的漫画已达到100章的重要里程碑。和我们一起庆祝这一成就！",
+          "action": "了解更多"
+        },
+        {
+          "title": "虚假技能限定周边现已发售！",
+          "description": "获取虚假技能系列角色的限定周边商品！",
+          "action": "立即购买"
+        }
+      ]
+    },
+    "community": {
+      "title": "加入虚假技能社区",
+      "description": "成为我们充满激情的社区的一员，讨论虚假技能宇宙的一切。分享理论、同人作品等！",
+      "topics_title": "虚假技能社区热门话题",
+      "topics": [
+        "你最喜欢虚假技能中的哪个角色？",
+        "对虚假技能下一集的预测",
+        "最佳果实大师技能和能力"
+      ],
+      "join_forum": "加入论坛"
+    },
+    "store": {
+      "title": "虚假技能官方周边",
+      "description": "探索我们的限定周边系列，包括角色手办、海报、服装等，所有商品都源自虚假技能宇宙！",
+      "shop_now": "立即购买"
+    },
+    "merchandise": {
+      "title": "虚假技能官方周边",
+      "description": "探索虚假技能宇宙的各种官方周边！无论你是铁杆粉丝还是刚开始接触，都能找到完美的商品来表达对虚假技能的喜爱。",
+      "featured_title": "精选商品",
+      "products": [
+        {
+          "title": "果实大师手办",
+          "description": "获取主角使用传奇果实大师技能的精美手办。",
+          "link": "fruitmaster-figurine"
+        },
+        {
+          "title": "虚假技能海报合集",
+          "description": "用漫画和动画中标志性场景的精美海报装饰你的空间。",
+          "link": "posters"
+        },
+        {
+          "title": "限定服饰",
+          "description": "自豪地展示你的粉丝身份！查看我们的虚假技能主题T恤、卫衣和其他服装。",
+          "link": "apparel"
+        }
+      ]
+    },
+    "overview": {
+      "title": "动画与漫画概览",
+      "description": "发现虚假技能系列的一切，从引人入胜的漫画起源到激动人心的动画改编。探索故事情节、角色，以及为什么漫画和动画都值得一读和一看！",
+      "manga": {
+        "title": "漫画概览",
+        "description": "《虚假技能》漫画系列讲述了一个获得意外技能的主角的故事。这个最初被认为无用的技能，在角色面对充满危险敌人和不可预见挑战的世界时逐渐显现其重要性。"
+      },
+      "anime": {
+        "title": "动画概览",
+        "description": "动画改编为虚假技能的精彩世界注入了生命力，令人惊叹的动画效果和沉浸式配乐完美匹配原作漫画的激情。"
+      },
+      "recommendations": {
+        "title": "推荐",
+        "similar_manga": "类似虚假技能的漫画",
+        "similar_anime": "类似虚假技能的动画"
+      }
+    },
+    "multimedia": {
+      "title": "观看官方视频和预告片",
+      "description": "查看最新预告片、剧集和虚假技能制作花絮。",
+      "watch_now": "立即观看"
+    }
   },
   "category": {
     "meta_title": "分类",
@@ -11,55 +132,54 @@
     "homeBtn": "首页",
     "categoryBtn": "分类",
     "h1": "开发工具分类",
-    "h2": "在这里找到您在开发旅程中需要的每一种开发者工具",
-    "h2description": "所有开发者工具按字母顺序排列"
+    "h2": "在这里找到您需要的所有开发工具",
+    "h2description": "所有开发工具按字母顺序排列"
   },
   "article": {
     "meta_title": "文章",
-    "meta_description": "阅读文章，了解最新的开发者工具以及开发经验、技巧和最佳实践",
+    "meta_description": "阅读关于最新开发工具和最佳实践的文章",
+    "h1": "文章",
+    "h2": "阅读更多相关文章",
     "homeBtn": "首页",
     "articleBtn": "文章",
-    "h1": "文章",
-    "h2": "阅读更多有关DevToolset的文章",
     "backToArticles": "返回文章列表"
   },
   "changelog": {
     "meta_title": "更新日志",
-    "meta_description": "查看DevToolset的更新日志",
+    "meta_description": "了解最新更新动态",
     "h1": "更新日志",
-    "h2": "查看DevToolset的更新日志",
+    "h2": "了解最新更新动态",
     "homeBtn": "首页",
     "changelogBtn": "更新日志"
   },
   "tools": {
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2_1": "所有与 ",
-    "h2_2": " 相关的开发者工具",
+    "meta_description": "在这里找到您在开发旅程中需要的每一种开发者工具",
+    "h2_1": "所有相关的",
+    "h2_2": "",
     "homeBtn": "首页"
   },
   "search": {
-    "input_placeholder": "输入名词、关键词等搜索相关工具",
+    "input_placeholder": "按名称/标签搜索...",
     "heading": "建议",
     "more": "更多",
     "button": "搜索"
   },
-  "navigation": { 
+  "navigation": {
     "homeBtn": "首页",
     "categoryBtn": "分类",
     "moreCategoryBtn": "更多",
     "moreCategoryDescription": "更多分类",
     "articleBtn": "文章",
-    "articleDescription": "开源、无数据库架构的开发者工具资源导航平台",
-    "article1Title": "添加新的开发者工具到DevToolset",
-    "article2Title": "部署你自己的DevToolset",
+    "articleDescription": "探索虚假技能的漫画与动画世界",
+    "article1Title": "果实大师：全新的游戏体验",
+    "article2Title": "虚假技能漫画：打破传统的新流派",
     "moreArticleBtn": "更多",
     "moreArticleDescription": "更多文章",
-    "changelogBtn": "更新日志",
-    "submitToolBtn": "提交工具"
+    "changelogBtn": "更新日志"
   },
-  "footer": { 
-    "description": "开源、无数据库架构的开发者工具资源导航平台",
-    "builtWith": "基于",
+  "footer": {
+    "description": "通过漫画、小说和动画探索虚假技能的精彩世界",
+    "tagline": "你的终极漫画动画目的地",
     "quickLinks": "快速链接",
     "home": "首页",
     "category": "分类",

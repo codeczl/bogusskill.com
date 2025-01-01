@@ -15,25 +15,14 @@ export function Footer() {
           <div className='flex flex-col justify-center items-center lg:items-start lg:justify-start'>
             <h3 className="text-sm font-bold tracking-normal">
               <Link href="/" className="flex items-center space-x-2">
-                <Image
-                  src={IconImage}
-                  className="block opacity-80"
-                  width={size}
-                  height={size}
-                  alt="DomainScore"
-                />
-                <span className="inline-block font-bold">Dev Toolset</span>
+                <span className="inline-block font-bold">Bogus Skill</span>
               </Link>
             </h3>
             <p className="mt-4 text-xs ">
               {t('description')}
-              
             </p>
             <div className='mt-4 text-xs '>
-              {t('builtWith')}
-              <Link href="https://gitbase.app/" target='_black' className="ml-1 text-xs underline">
-                GitBase
-              </Link>
+              {t('tagline')}
             </div>
           </div>
           <div className=''>
@@ -80,7 +69,7 @@ export function Footer() {
             <h3 className="text-sm font-semibold tracking-wider uppercase">{t('connect')}</h3>
             <ul className="mt-4 space-y-4">
               <li>
-                <Link href={"mailto:iamcoreychiu+devtoolsetsupport@gmail.com"} className="text-base">
+                <Link href={"mailto:czhenglong451@gmail.com"} className="text-base">
                   {t('support')}
                 </Link>
               </li>
@@ -90,7 +79,7 @@ export function Footer() {
         </div>
         <div className="mt-8 border-t pt-8">
           <p className="text-base text-center">
-            &copy; {new Date().getFullYear()} DevToolset. {t('copyright')}
+            &copy; {new Date().getFullYear()} Bogus Skill. {t('copyright')}
           </p>
         </div>
       </div>

@@ -2,7 +2,7 @@
 import React from 'react'; // 确保导入 React
 import { useState, useEffect } from 'react'
 import { Link, usePathname }from "@/lib/i18n";
-import { Github, MenuIcon } from 'lucide-react'
+import { MenuIcon } from 'lucide-react'
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
@@ -107,7 +107,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
               height={size}
               alt="DomainScore"
             />
-            <span className="inline-block font-bold">Dev Toolset</span>
+            <span className="inline-block font-bold">Bogus Skill</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
@@ -156,7 +156,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Dev Toolset
+                              Bogus Skill
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -164,10 +164,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
                           </a>
                         </NavigationMenuLink>
                       </li>
-                      <ListItem href="/article/add-new-developer-tools" title="Add Tools">
+                      <ListItem href="/article/bogus-skill-fruitmaster" title="Fruitmaster">
                         {t('article1Title')}
                       </ListItem>
-                      <ListItem href="/article/deploy-own-devtoolset" title="Deploy DevToolset">
+                      <ListItem href="/article/bogus-skill-manga" title="Manga">
                         {t('article2Title')}
                       </ListItem>
                       <ListItem href="/article" title={t('moreArticleBtn')} className='border border-muted  bg-gradient-to-b  from-muted/50 to-muted/20'>
@@ -188,54 +188,41 @@ export const Navigation = ({ categories }: navigationProp ) => {
           </nav>
         </div>
         <div className="flex items-center gap-3">
-          <Link href="/article/add-new-developer-tools" className='hidden md:block'>
-            <Button variant="outline" className='text-sm tracking-tight'>{t('submitToolBtn')}</Button>
-          </Link>
           <div className="flex items-center gap-1">
             <ThemeModeButton />
             <LocaleButton />
-            
           </div>
-          <Link
-            href={"https://github.com/iAmCorey/devtoolset"}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-muted-foreground hover:text-foreground ml-1"
-          >
-            <Github className="h-4 w-4" />
-            <span className="sr-only">GitHub</span>
-          </Link>
           <Sheet
-              open={mobileMenuOpen}
-              onOpenChange={(open) => setMobileMenuOpen(open)}
-            >
-              <SheetTrigger asChild>
-                <Button
-                  className="md:hidden"
-                  size="icon"
-                  variant="outline"
-                  aria-label="Menu"
-                >
-                  <MenuIcon className="size-4" />
-                </Button>
-              </SheetTrigger>
-              <SheetContent className="w-[250px]" side="right">
-                <div className="flex flex-col items-start justify-center">
-                  {menuItems.map((menuItem) => (
-                    <Link
-                      key={menuItem.href}
-                      href={menuItem.href}
-                      className={cn(
-                        "block px-3 py-2 text-lg",
-                        isMenuItemActive(menuItem.href) ? "font-bold" : "",
-                      )}
-                    >
-                      {menuItem.label}
-                    </Link>
-                  ))}
-                </div>
-              </SheetContent>
-            </Sheet>
+            open={mobileMenuOpen}
+            onOpenChange={(open) => setMobileMenuOpen(open)}
+          >
+            <SheetTrigger asChild>
+              <Button
+                className="md:hidden"
+                size="icon"
+                variant="outline"
+                aria-label="Menu"
+              >
+                <MenuIcon className="size-4" />
+              </Button>
+            </SheetTrigger>
+            <SheetContent className="w-[250px]" side="right">
+              <div className="flex flex-col items-start justify-center">
+                {menuItems.map((menuItem) => (
+                  <Link
+                    key={menuItem.href}
+                    href={menuItem.href}
+                    className={cn(
+                      "block px-3 py-2 text-lg",
+                      isMenuItemActive(menuItem.href) ? "font-bold" : "",
+                    )}
+                  >
+                    {menuItem.label}
+                  </Link>
+                ))}
+              </div>
+            </SheetContent>
+          </Sheet>
         </div>
       </div>
     </header>

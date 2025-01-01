@@ -9,12 +9,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-        url: 'tools', // tools
-        lastModified: new Date(),
-        changeFrequency: 'daily',
-        priority: 0.9,
-      },
-    {
       url: 'category', // category
       lastModified: new Date(),
       changeFrequency: 'daily',
@@ -38,7 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const routeUrl = route.url === '' ? '' : `/${route.url}`;
     return {
         ...route,
-        url: `https://DevToolset.net${routeUrl}`,
+        url: `https://bogusskill.com${routeUrl}`,
       };
     }
   );

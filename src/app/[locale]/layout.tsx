@@ -22,26 +22,29 @@ const sansFont = DM_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: 'DevToolset: Open-Source Database-free Developer Tools Navigator',
-    template: '%s | DevToolset'
+    default: 'Bogus Skill: Explore the World of Fruitmaster Manga & Anime',
+    template: '%s | Bogus Skill'
   },
-  description: 'Explore Every Essential Developer Tools You Need For Your Development Journey',
-  authors: { name: 'DevToolset', url: 'https://DevToolset.net/' },
-  keywords: 'developer tools, dev tools, develop tool',
+  description: 'Dive into the thrilling universe of Bogus Skill. Read manga, watch anime, and join our passionate community!',
+  authors: { name: 'Bogus Skill', url: 'https://bogusskill.com/' },
+  keywords: 'manga, anime, bogus skill, fruitmaster, fantasy manga',
   alternates: {
-    canonical: "https://DevToolset.net/", languages: {
-      "en-US": "https://DevToolset.net/en/",
-      "zh-CN": "https://DevToolset.net/zh/",
+    canonical: "https://bogusskill.com/", 
+    languages: {
+      "en-US": "https://bogusskill.com/en/",
+      "zh-CN": "https://bogusskill.com/zh/",
     }
   },
-  icons: [
-    { rel: "icon", type: 'image/png', sizes: "16x16", url: "/favicon-16x16.png" },
-    { rel: "icon", type: 'image/png', sizes: "32x32", url: "/favicon-32x32.png" },
-    { rel: "icon", type: 'image/ico', url: "/favicon.ico" },
-    { rel: "apple-touch-icon", sizes: "180x180", url: "/favicon-180x180.png" },
-    { rel: "android-chrome", sizes: "512x512", url: "/favicon-512x512.png" },
-
-  ],
+  icons: {
+    icon: [
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon-512x512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/favicon-512x512.png', sizes: '512x512', type: 'image/png' },
+    ],
+  },
 }
 
 export default async function RootLayout({
@@ -56,14 +59,12 @@ export default async function RootLayout({
   return (
     <>
       <html lang={locale} suppressHydrationWarning>
-        <head />
-        <body className={cn(inter.className, sansFont.variable,
-        )}>
+        <head>
+          <meta name="google-adsense-account" content="ca-pub-8919061004428483" />
+        </head>
+        <body className={cn(inter.className, sansFont.variable)}>
           <NextIntlClientProvider messages={messages}>
-            <ThemeProvider
-              attribute="class"
-
-            >
+            <ThemeProvider attribute="class">
               <Layout>{children}</Layout>
               <GoogleAdsenseScript />
               <GoogleAnalyticsScript />

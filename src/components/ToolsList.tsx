@@ -55,7 +55,7 @@ type toolProps = {
 
 const ToolsList = ({ category, locale, showMoreLink = true }: toolsListProps) => {
   const t = useTranslations('toolsList');
-  const srcList = getDataList(category.src, locale)
+  const srcList = getDataList(category.src, locale);
 
   return (
     <section>
@@ -68,48 +68,44 @@ const ToolsList = ({ category, locale, showMoreLink = true }: toolsListProps) =>
         )}
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {/* @ts-ignore */}
-        {srcList.slice(0,8).map((resource: toolProps, index) => (
-          <Card key={index} className='max-w-sm overflow-hidden shadow-md transform transition-transform duration-300 hover:scale-105 '>
+        {srcList?.slice(0,8).map((resource: toolProps, index: number) => (
+          <Card key={index} className='max-w-sm overflow-hidden shadow-md transform transition-transform duration-300 hover:scale-105'>
             <CardHeader>
               <a 
-                href={`${resource.url}?utm_source=devtoolset.net`} 
+                href={resource.url}
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800 transition-colors inline-flex items-center gap-1"
               >
                 <div className='border border-gray-200 p-1 rounded-md mr-1 bg-white'>
-                  {/* <img width="20" height="20" src={`https://favicon.im/${resource.url}?larger=true`} alt={`${resource.name} favicon`} /> */}
-                  { resource.icon_url ?
-                    // <img width="20" height="20" src={resource.icon_url}  alt={`${resource.name} favicon`} />
-                    <Image width={20} height={20} src={resource.icon_url}  alt={`${resource.name} favicon`} loading='lazy'/>
+                  {resource.icon_url ?
+                    <Image width={20} height={20} src={resource.icon_url} alt={`${resource.name} icon`} loading='lazy'/>
                     :
-                    <img width="20" height="20" src={`https://favicon.im/${resource.url}?larger=true`} alt={`${resource.name} favicon`} loading='lazy'/>
+                    <img width="20" height="20" src={`https://favicon.im/${resource.url}?larger=true`} alt={`${resource.name} icon`} loading='lazy'/>
                   }
                 </div>
                 <CardTitle className='capitalize tracking-tighter'>{resource.name}</CardTitle>
                 <ExternalLink size={16} className='ml-1' />
               </a>
-              <CardDescription className='flex flex-col justify-between '>
+              <CardDescription className='flex flex-col justify-between'>
                 <div className='h-[60px] line-clamp-3 mt-1 tracking-tight text-start'>
                   {resource.description}
                 </div>
-                { resource.tags ? 
+                {resource.tags && resource.tags.length > 0 && (
                   <div className='mt-3'>
                     {resource.tags.slice(0,3).map((tag, i) => (
                       <Badge key={i} variant="secondary" className='text-xs pb-1 mr-1 mt-2 tracking-tighter'>{tag}</Badge>
                     ))}
-                  </div> :
-                 null
-                }     
+                  </div>
+                )}
               </CardDescription>
             </CardHeader>
           </Card>
         ))}
       </div>
     </section>
-  )
-}
+  );
+};
 
 const ToolsPage = ({ category, locale }: { category: categoryProps, locale: string }) => {
   const srcList = getDataList(category.src, locale);

@@ -1,0 +1,50 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+    {
+        "name": "木の実マスター",
+        "description": "拥有‘坚果大师’技能的男孩，通过发现其真正的力量，成为最强的冒险者。",
+        "url": "https://kc.kodansha.co.jp/product?item=0000366330",
+        "tags": ["小说"]
+      }
+      
+      
+    // A
+  
+    // B
+    // C
+    // D
+    // E
+    // F
+    // G
+  
+    // H
+    // I
+    // J
+    // K
+    // L
+    // M
+    // N
+    // O
+    // P
+  
+  
+    // W
+    // X
+    // Y
+    // Z
+  ]

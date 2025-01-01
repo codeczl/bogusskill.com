@@ -1,9 +1,130 @@
 {
   "home": {
-    "meta_title": "DevToolset: Open-Source Database-free Developer Tools Navigator",
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2": "Open-Source & Database-Free Developer Tools Navigator",
-    "description": "Find Every Essential Developer Tools You Need for Your Development Journey"
+    "meta_title": "Bogus Skill: Explore the World of Fruitmaster Manga & Anime",
+    "meta_description": "Dive into the thrilling universe of Bogus Skill. Read manga, watch anime, and join our passionate community!",
+    "h2": "Welcome to the World of Bogus Skill",
+    "description": "Discover the exciting adventures of Fruitmaster in both manga and anime formats. Join our growing community of Bogus Skill fans!",
+    "hero": {
+      "title": "Welcome to the World of Bogus Skill",
+      "description": "Dive into the thrilling adventure of Bogus Skill! From the Fruitmaster manga to the latest anime episodes, explore everything about this exciting universe of Bogus Skill.",
+      "read_manga": "Read Manga",
+      "watch_anime": "Watch Anime",
+      "join_community": "Join the Bogus Skill Community"
+    },
+    "about": {
+      "title": "About Bogus Skill",
+      "description_1": "\"Bogus Skill\" is a captivating manga and anime series that explores unique and thrilling adventures. It focuses on the journey of a character who gains the mysterious \"Fruitmaster\" skill, a seemingly useless power that turns out to be highly valuable in the world of Bogus Skill.",
+      "description_2": "Created by an imaginative team, this series has won the hearts of many fans worldwide with its unpredictable twists and intriguing world-building. Discover the exciting and unpredictable nature of Bogus Skill!",
+      "features_title": "Key Features of Bogus Skill",
+      "feature_1": {
+        "title": "Innovative Storyline",
+        "description": "Discover a story filled with surprises, unique skills, and epic battles within the world of Bogus Skill."
+      },
+      "feature_2": {
+        "title": "Unique Worldbuilding",
+        "description": "Dive into a world where even the most unexpected skills can change the fate of its characters. Explore the hidden depths of Bogus Skill."
+      }
+    },
+    "latest": {
+      "title": "Latest Episodes & Chapters of Bogus Skill",
+      "episodes": [
+        {
+          "title": "Episode 1 - Bogus Skill: Fruitmaster",
+          "date": "Released on January 1, 2025",
+          "action": "Watch Now"
+        },
+        {
+          "title": "Chapter 15 - The Fruits of Power",
+          "date": "Released on December 25, 2024",
+          "action": "Read Manga"
+        },
+        {
+          "title": "Episode 2 - The Return of the Master",
+          "date": "Released on January 8, 2025",
+          "action": "Watch Now"
+        }
+      ]
+    },
+    "news": {
+      "title": "Latest Bogus Skill News & Updates",
+      "items": [
+        {
+          "title": "New Episode of Bogus Skill Anime Drops Tomorrow",
+          "description": "Get ready for another exciting episode of the anime series! Find out what happens next in the thrilling world of Bogus Skill.",
+          "action": "Read More"
+        },
+        {
+          "title": "Bogus Skill Manga Reaches 100 Chapters!",
+          "description": "Our beloved manga has hit a huge milestone with 100 chapters. Celebrate this achievement with us!",
+          "action": "Learn More"
+        },
+        {
+          "title": "Exclusive Bogus Skill Merchandise Available Now!",
+          "description": "Get your hands on exclusive merchandise featuring characters from the Bogus Skill series!",
+          "action": "Shop Now"
+        }
+      ]
+    },
+    "community": {
+      "title": "Join the Bogus Skill Community",
+      "description": "Become a part of our passionate community and discuss everything about the Bogus Skill universe. Share theories, fan art, and more!",
+      "topics_title": "Popular Topics in the Bogus Skill Community",
+      "topics": [
+        "Who is your favorite character in Bogus Skill?",
+        "Predictions for the next episode of Bogus Skill",
+        "Best Fruitmaster skills and abilities"
+      ],
+      "join_forum": "Join the Forum"
+    },
+    "store": {
+      "title": "Official Bogus Skill Merchandise",
+      "description": "Explore our collection of exclusive merchandise, including character figurines, posters, apparel, and more, all inspired by the Bogus Skill universe!",
+      "shop_now": "Shop Now"
+    },
+    "merchandise": {
+      "title": "Official Bogus Skill Merchandise",
+      "description": "Explore a wide variety of official merchandise from the Bogus Skill universe! Whether you're a die-hard fan or just starting your journey, you'll find the perfect items to celebrate your love for Bogus Skill.",
+      "featured_title": "Featured Products",
+      "products": [
+        {
+          "title": "Fruitmaster Figurine",
+          "description": "Get your hands on a highly detailed figurine of the main character wielding their legendary Fruitmaster skill.",
+          "link": "fruitmaster-figurine"
+        },
+        {
+          "title": "Bogus Skill Poster Collection",
+          "description": "Decorate your space with beautiful posters featuring iconic scenes from both the manga and anime.",
+          "link": "posters"
+        },
+        {
+          "title": "Exclusive Apparel",
+          "description": "Wear your fandom with pride! Check out our Bogus Skill-themed shirts, hoodies, and other apparel.",
+          "link": "apparel"
+        }
+      ]
+    },
+    "overview": {
+      "title": "Anime & Manga Overview",
+      "description": "Discover everything about the Bogus Skill series, from its captivating manga origins to the thrilling anime adaptation. Explore the storyline, characters, and why both the manga and anime are must-reads and must-watches!",
+      "manga": {
+        "title": "Manga Overview",
+        "description": "The \"Bogus Skill\" manga series follows a protagonist who acquires an unexpected skill – the Fruitmaster. Initially seen as useless, this skill grows in significance as the character ventures into a world filled with dangerous enemies and unforeseen challenges."
+      },
+      "anime": {
+        "title": "Anime Overview",
+        "description": "The anime adaptation brings the vibrant world of Bogus Skill to life, with breathtaking animation and an immersive soundtrack that matches the intensity of the original manga."
+      },
+      "recommendations": {
+        "title": "Recommendations",
+        "similar_manga": "Similar Manga to Bogus Skill",
+        "similar_anime": "Similar Anime to Bogus Skill"
+      }
+    },
+    "multimedia": {
+      "title": "Watch Official Videos & Trailers",
+      "description": "Check out the latest trailers, episodes, and behind-the-scenes content about the making of Bogus Skill.",
+      "watch_now": "Watch Now"
+    }
   },
   "category": {
     "meta_title": "Category",
@@ -49,17 +170,16 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
     "articleBtn": "Article",
-    "articleDescription": "Open-Source Database-free Developer Tools Navigator",
-    "article1Title": "Adding New Developer Tools to DevToolset",
-    "article2Title": "Deploy your own DevToolset",
+    "articleDescription": "Explore the World of Bogus Skill Manga & Anime",
+    "article1Title": "Fruitmaster: A New Gaming Experience",
+    "article2Title": "Bogus Skill Manga: Breaking Traditional Genres",
     "moreArticleBtn": "More",
     "moreArticleDescription": "More articles",
-    "changelogBtn": "Changelog",
-    "submitToolBtn": "Submit Tool"
+    "changelogBtn": "Changelog"
   },
   "footer": {
-    "description": "OpenSource & Database-free Developer Tools Navigator",
-    "builtWith": "Built with",
+    "description": "Discover the exciting world of Bogus Skill through manga, novels, and anime",
+    "tagline": "Your Ultimate Manga & Anime Destination",
     "quickLinks": "Quick Links",
     "home": "Home",
     "category": "Category",

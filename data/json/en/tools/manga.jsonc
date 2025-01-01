@@ -1,0 +1,85 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+
+[
+    {
+        "name": "木の実マスター - first volume",
+        "description": " the boy Light, who has the 'Nut Master' skill, embarks on an unexpected journey into the world of farming. However, his dream of becoming a great adventurer takes a turn as he discovers the true potential of his skill.",
+        "url": "https://kc.kodansha.co.jp/product?item=0000357857",
+        "tags": ["manga"]
+      },
+      {
+        "name": "木の実マスター - second volume",
+        "description": " Light begins to understand that his 'Nut Master' skill is not just for farming, but holds hidden potential. With the introduction of new characters, the story takes a more adventurous turn.",
+        "url": "https://kc.kodansha.co.jp/product?item=0000361604",
+        "tags": ["manga"]
+      },
+      {
+        "name": "木の実マスター - third volume",
+        "description": "Light’s journey continues as he faces the consequences of eating a second skill fruit. The stakes rise as he learns more about his evolving powers, with the line between adventure and danger becoming increasingly blurred.",
+        "url": "https://kc.kodansha.co.jp/product?item=0000366459",
+        "tags": ["manga"]
+      },
+      {
+        "name": "木の実マスター - fourth volume",
+        "description": "Light’s adventures escalate as he discovers the true power of his ‘Nut Master’ skill, unlocking new abilities that challenge his identity as an adventurer. The story delves deeper into the consequences of gaining such a powerful skill.",
+        "url": "https://kc.kodansha.co.jp/product?item=0000370607",
+        "tags": ["manga"]
+      },
+      {
+        "name": "木の実マスター - fifth volume",
+        "description": " explores Light’s growing understanding of the ‘Nut Master’ skill’s true nature. Now faced with new challenges, Light must confront his past decisions and prepare for a battle that will test his strength and resolve.",
+        "url": "https://kc.kodansha.co.jp/product?item=0000375339",
+        "tags": ["manga"]
+      },
+      {
+        "name": "木の実マスター - sixth volume",
+        "description": " Light’s powers are pushed to the limit as he faces even greater dangers. As Light grows stronger, the secrets behind the 'Nut Master' skill begin to unravel, setting the stage for an epic confrontation.",
+        "url": "https://kc.kodansha.co.jp/product?item=0000387204",
+        "tags": ["manga"]
+      }
+      
+      
+      
+      
+      
+      
+      
+    // A
+  
+    // B
+    // C
+    // D
+    // E
+    // F
+    // G
+  
+    // H
+    // I
+    // J
+    // K
+    // L
+    // M
+    // N
+    // O
+    // P
+  
+  
+    // W
+    // X
+    // Y
+    // Z
+  ]
