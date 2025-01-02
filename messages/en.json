@@ -3,28 +3,26 @@
     "meta_title": "Bogus Skill: Explore the World of Fruitmaster Manga & Anime",
     "meta_description": "Dive into the thrilling universe of Bogus Skill. Read manga, watch anime, and join our passionate community!",
     "h2": "Welcome to the World of Bogus Skill",
-    "description": "Discover the exciting adventures of Fruitmaster in both manga and anime formats. Join our growing community of Bogus Skill fans!",
+    "description": "『外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～』",
     "hero": {
-      "title": "Welcome to the World of Bogus Skill",
-      "description": "Dive into the thrilling adventure of Bogus Skill! From the Fruitmaster manga to the latest anime episodes, explore everything about this exciting universe of Bogus Skill.",
-      "read_manga": "Read Manga",
-      "watch_anime": "Watch Anime",
-      "join_community": "Join the Bogus Skill Community"
+      "title": "INTRODUCTION",
+      "subtitle": "《Fruitmaster》",
+      "description": "In a world where consuming \"Bogus Skill Fruits\" grants special abilities...",
+      "story_line1": "A young adventurer named Light, aiming to become the strongest, obtained...",
+      "story_line2": "A seemingly useless bogus skill that turned wood fruits into the «Fruitmaster».",
+      "story_line3": "\"bogus Skill Fruits\" must be eaten again to maintain their power, making them irreplaceable.",
+      "story_line4": "Meanwhile, his childhood friend Ray, who promised to \"become an adventurer together,\"",
+      "story_line5": "Has reached the highest S-rank in history, creating a huge gap between them.",
+      "story_line6": "One day, as Light lives his peaceful farming life,",
+      "story_line7": "He accidentally consumes a second \"Skill Fruit\"—",
+      "dramatic_text": "\"Why am I not dead...!?\"",
+      "reveal_text": "Light, who survived what should have been fatal, discovers the true power of «Fruitmaster».",
+      "power_text": "It was the ability to eat \"bogus Skill Fruits\" infinitely!",
+      "cheat_text": "A hyper-cheat that adds abilities with each consumption!!",
+      "twist_text": "The lowest-ranked bogus skill was actually the strongest!!!",
+      "epic_conclusion": "The success fantasy of a man told he couldn't become an adventurer begins now...!"
     },
-    "about": {
-      "title": "About Bogus Skill",
-      "description_1": "\"Bogus Skill\" is a captivating manga and anime series that explores unique and thrilling adventures. It focuses on the journey of a character who gains the mysterious \"Fruitmaster\" skill, a seemingly useless power that turns out to be highly valuable in the world of Bogus Skill.",
-      "description_2": "Created by an imaginative team, this series has won the hearts of many fans worldwide with its unpredictable twists and intriguing world-building. Discover the exciting and unpredictable nature of Bogus Skill!",
-      "features_title": "Key Features of Bogus Skill",
-      "feature_1": {
-        "title": "Innovative Storyline",
-        "description": "Discover a story filled with surprises, unique skills, and epic battles within the world of Bogus Skill."
-      },
-      "feature_2": {
-        "title": "Unique Worldbuilding",
-        "description": "Dive into a world where even the most unexpected skills can change the fate of its characters. Explore the hidden depths of Bogus Skill."
-      }
-    },
+
     "latest": {
       "title": "Latest Episodes & Chapters of Bogus Skill",
       "episodes": [
@@ -45,131 +43,146 @@
         }
       ]
     },
-    "news": {
-      "title": "Latest Bogus Skill News & Updates",
-      "items": [
+    "skills": {
+      "title": "Bogus Skill Compendium",
+      "subtitle": "Known BogusSkill Effects",
+      "description": "In this world, consuming Bogus Skill Fruits grants various unique abilities. Here are some of the known important Bogus skills:",
+      "skills": [
         {
-          "title": "New Episode of Bogus Skill Anime Drops Tomorrow",
-          "description": "Get ready for another exciting episode of the anime series! Find out what happens next in the thrilling world of Bogus Skill.",
-          "action": "Read More"
+          "name": "Fruitmaster",
+          "japanese": "木の実マスター",
+          "description": "Initially considered a useless farming Bogus skill that accelerates fruit growth and increases yield. However, it also grants the holder immunity to Bogus Skill Fruit toxicity, allowing them to safely consume multiple bogus Skill Fruits and gain multiple abilities.",
+          "type": "Special"
         },
         {
-          "title": "Bogus Skill Manga Reaches 100 Chapters!",
-          "description": "Our beloved manga has hit a huge milestone with 100 chapters. Celebrate this achievement with us!",
-          "action": "Learn More"
+          "name": "Swordmaster",
+          "japanese": "剣聖",
+          "description": "Greatly enhances the holder's attack power and provides magic resistance when wielding a sword. This powerful combat bogus skill gives the wielder a significant advantage in battle.",
+          "type": "Combat"
         },
         {
-          "title": "Exclusive Bogus Skill Merchandise Available Now!",
-          "description": "Get your hands on exclusive merchandise featuring characters from the Bogus Skill series!",
-          "action": "Shop Now"
+          "name": "Appraisal",
+          "japanese": "鑑定",
+          "description": "Allows the holder to view information about target's characteristics,bogus skills, and other attributes, providing insight into both allies' and enemies' capabilities. This bogus skill is highly practical in both combat and daily life.",
+          "type": "Support"
+        },
+        {
+          "name": "Super Refinement",
+          "japanese": "超精錬",
+          "description": "Enables the holder to forge metals into desired properties through hammering, suitable for crafting powerful weapons and equipment. It is a key bogus skill for creating legendary-grade equipment.",
+          "type": "Crafting"
+        },
+        {
+          "name": "Necromancy",
+          "japanese": "死霊操作",
+          "description": "A forbidden bogus kill that allows the holder to control the dead or undead creatures. While powerful, using this bogus skill comes with a heavy mental burden.",
+          "type": "Forbidden"
+        },
+        {
+          "name": "Book Reading",
+          "japanese": "書物閲覧",
+          "description": "Enables the holder to view any written information, even hidden or encrypted content. Particularly useful for gathering intelligence and deciphering ancient documents.",
+          "type": "Support"
+        },
+        {
+          "name": "Healing",
+          "japanese": "治癒",
+          "description": "Grants the holder the ability to heal wounds and cure diseases, used for supporting allies or self-recovery. An indispensable bogus skill for dangerous adventures.",
+          "type": "Recovery"
+        },
+        {
+          "name": "Fire Control",
+          "japanese": "火炎操作",
+          "description": "Allows the holder to generate and control fire for attacks or other purposes. The temperature and range of the flames can be adjusted based on the user's proficiency.",
+          "type": "Elemental"
+        },
+        {
+          "name": "Invisibility",
+          "japanese": "隠身",
+          "description": "Enables the holder to become invisible for a certain period, avoiding detection or used for surprise attacks. The duration of complete invisibility depends on the user's mana reserves.",
+          "type": "Special"
         }
       ]
     },
-    "community": {
-      "title": "Join the Bogus Skill Community",
-      "description": "Become a part of our passionate community and discuss everything about the Bogus Skill universe. Share theories, fan art, and more!",
-      "topics_title": "Popular Topics in the Bogus Skill Community",
-      "topics": [
-        "Who is your favorite character in Bogus Skill?",
-        "Predictions for the next episode of Bogus Skill",
-        "Best Fruitmaster skills and abilities"
-      ],
-      "join_forum": "Join the Forum"
-    },
-    "store": {
-      "title": "Official Bogus Skill Merchandise",
-      "description": "Explore our collection of exclusive merchandise, including character figurines, posters, apparel, and more, all inspired by the Bogus Skill universe!",
-      "shop_now": "Shop Now"
-    },
-    "merchandise": {
-      "title": "Official Bogus Skill Merchandise",
-      "description": "Explore a wide variety of official merchandise from the Bogus Skill universe! Whether you're a die-hard fan or just starting your journey, you'll find the perfect items to celebrate your love for Bogus Skill.",
-      "featured_title": "Featured Products",
-      "products": [
-        {
-          "title": "Fruitmaster Figurine",
-          "description": "Get your hands on a highly detailed figurine of the main character wielding their legendary Fruitmaster skill.",
-          "link": "fruitmaster-figurine"
-        },
-        {
-          "title": "Bogus Skill Poster Collection",
-          "description": "Decorate your space with beautiful posters featuring iconic scenes from both the manga and anime.",
-          "link": "posters"
-        },
-        {
-          "title": "Exclusive Apparel",
-          "description": "Wear your fandom with pride! Check out our Bogus Skill-themed shirts, hoodies, and other apparel.",
-          "link": "apparel"
-        }
-      ]
-    },
-    "overview": {
-      "title": "Anime & Manga Overview",
-      "description": "Discover everything about the Bogus Skill series, from its captivating manga origins to the thrilling anime adaptation. Explore the storyline, characters, and why both the manga and anime are must-reads and must-watches!",
-      "manga": {
-        "title": "Manga Overview",
-        "description": "The \"Bogus Skill\" manga series follows a protagonist who acquires an unexpected skill – the Fruitmaster. Initially seen as useless, this skill grows in significance as the character ventures into a world filled with dangerous enemies and unforeseen challenges."
+    "pv": {
+      "title": "Promotional Videos",
+      "subtitle": "Watch Official PVs",
+      "description": "Experience the magic of Bogus Skill through our official promotional videos!",
+      "pv1": {
+        "title": "First PV",
+        "description": "A boy's adventure begins with an unexpected fruit..."
       },
-      "anime": {
-        "title": "Anime Overview",
-        "description": "The anime adaptation brings the vibrant world of Bogus Skill to life, with breathtaking animation and an immersive soundtrack that matches the intensity of the original manga."
-      },
-      "recommendations": {
-        "title": "Recommendations",
-        "similar_manga": "Similar Manga to Bogus Skill",
-        "similar_anime": "Similar Anime to Bogus Skill"
+      "pv2": {
+        "title": "Second PV",
+        "description": "The true power of the weakest skill is about to awaken!"
       }
     },
-    "multimedia": {
-      "title": "Watch Official Videos & Trailers",
-      "description": "Check out the latest trailers, episodes, and behind-the-scenes content about the making of Bogus Skill.",
-      "watch_now": "Watch Now"
+    "anime": {
+      "title": "Anime Announcement",
+      "broadcast": {
+        "title": "Broadcast Information",
+        "date": "Airing from January 2025",
+        "description": "The anime adaptation of \"Bogus Skill: Fruitmaster\" (Hazure Skill 'Kinomi Master' Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite) has been confirmed to begin airing in January 2025.",
+        "origin": "Originally from the novel posting site \"Shousetsuka ni Narou,\" this work tells the success fantasy of a boy aiming to become the greatest adventurer in history."
+      },
+      "announcement": {
+        "title": "Latest Announcements",
+        "visual": "Key visual released",
+        "pv": "Teaser PV now available",
+        "cast": "Main cast revealed"
+      },
+      "production": {
+        "studio": "Produced by K Ranobe Books",
+        "staff": "Staff & Cast Information"
+      },
+      "cast": {
+        "title": "Voice Cast",
+        "light": "Light - Takuma Nagatsuka",
+        "lena": "Lena - Lynn",
+        "ayla": "Ayla - Kazuki Mikawa",
+        "monica": "Monica - Hana Shugibe",
+        "dratena": "Dratena - Akari Sekine"
+      }
     }
   },
   "category": {
-    "meta_title": "Category",
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
+    "meta_title": "Categories",
+    "meta_description": "Find the resource categories you're looking for here",
     "homeBtn": "Home",
-    "categoryBtn": "Category",
-    "h1": "Develop Tools Category",
-    "h2": "Find Every Developer Tools You Need Here",
-    "h2description": "All developer tools are sorted alphabetically"
+    "categoryBtn": "Categories",
+    "h1": "Resource Categories",
+    "h2": "Find the resource categories you're looking for here",
+    "h2description": "All resources sorted alphabetically"
   },
   "article": {
-    "meta_title": "Article",
-    "meta_description": "Read our latest articles on newest developer tools and best practices.",
+    "meta_title": "Articles",
+    "meta_description": "Read articles about the latest Bogus Skill",
     "h1": "Articles",
-    "h2": "Read More About DevToolset",
+    "h2": "Read More Related Articles",
     "homeBtn": "Home",
-    "articleBtn": "Article",
-    "backToArticles": "Back to articles"
+    "articleBtn": "Articles",
+    "backToArticles": "Back to Articles List"
   },
   "changelog": {
     "meta_title": "Changelog",
-    "meta_description": "Stay up to date with the latest updates in DevToolset.net",
+    "meta_description": "Learn about the latest updates",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest updates in DevToolset.net",
+    "h2": "Learn about the latest updates",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
-  "tools": {
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2_1": "All developer tools related to",
-    "h2_2": "",
-    "homeBtn": "Home"
-  },
   "search": {
-    "input_placeholder": "Search tools by name / tags...",
+    "input_placeholder": "Search by name/tags...",
     "heading": "Suggestions",
     "more": "More",
     "button": "Search"
   },
   "navigation": {
     "homeBtn": "Home",
-    "categoryBtn": "Category",
+    "categoryBtn": "Categories",
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
-    "articleBtn": "Article",
+    "articleBtn": "Articles",
     "articleDescription": "Explore the World of Bogus Skill Manga & Anime",
     "article1Title": "Fruitmaster: A New Gaming Experience",
     "article2Title": "Bogus Skill Manga: Breaking Traditional Genres",
@@ -177,27 +190,75 @@
     "moreArticleDescription": "More articles",
     "changelogBtn": "Changelog"
   },
+  "toolsList": {
+    "more": "More",
+    "tools": ""
+  },
   "footer": {
     "description": "Discover the exciting world of Bogus Skill through manga, novels, and anime",
     "tagline": "Your Ultimate Manga & Anime Destination",
     "quickLinks": "Quick Links",
     "home": "Home",
-    "category": "Category",
-    "article": "Article",
+    "category": "Categories",
+    "article": "Articles",
     "changelog": "Changelog",
-    "privacy": "Privacy",
+    "privacy": "Privacy Policy",
     "termsOfService": "Terms of Service",
-    "legal": "Legal",
-    "connect": "Connect",
+    "legal": "Legal Notice",
+    "connect": "Contact Us",
     "support": "Support",
     "copyright": "All rights reserved."
   },
-  "toolsList": {
-    "more": "More",
-    "tools": "tools"
-  },
   "articleList": {
     "h2": "Articles",
-    "moreArticles": "More articles"
+    "moreArticles": "More Articles"
+  },
+  "characters": {
+    "title": "Characters",
+    "light": {
+      "name": "Light",
+      "cv": "CV. Takuma Nagatsuka",
+      "description": "A young boy who has dreamed of becoming an adventurer since childhood. He received the 'Fruitmaster'bogus skill, which is considered useless in combat, and makes a living as a farmer selling fruits. Despite this, he persistently continues his sword training. Initially disappointed with this skill that only accelerates fruit growth and increases yield, he accidentally consumes a second 'Skill Fruit' and discovers he can gain additional abilities and poison resistance—a cheat-level advantage."
+    },
+    "lena": {
+      "name": "Lena",
+      "cv": "CV. Lynn",
+      "description": "A girl who possesses the 'Swordmaster' bogus skill, which greatly enhances her attack power and magic resistance when wielding a sword. She promised her childhood friend Light to become adventurers together but was taken to the Holy City after being recognized as a once-in-a-decade prodigy. She is cheerful and warm-hearted, showing extraordinary talent by becoming an S-rank adventurer faster than anyone in history. Though she's a member of the S-rank party 'Sacred,' she harbors doubts about their methods and atmosphere."
+    },
+    "ayla": {
+      "name": "Ayla",
+      "cv": "CV. Kazuki Mikawa",
+      "description": "A young girl entrusted to Light's care by the village chief. Despite living in poverty, she never complains and works diligently, sharing daily life responsibilities with Light. After accidentally consuming a 'Skill Fruit,' she gained the 'Appraisal' skill, allowing her to identify items' characteristics and abilities."
+    },
+    "monica": {
+      "name": "Monica",
+      "cv": "CV. Hana Tamagai",
+      "description": "A bogusskilled blacksmith renowned as a legendary craftsman. She possesses the 'Super Refinement'bogus skill, allowing her to alter metal properties through forging at will. Due to a certain incident, she has stopped crafting swords."
+    },
+    "dratena": {
+      "name": "Dratena",
+      "cv": "CV. Akira Sekine",
+      "description": "A mysterious girl belonging to the 'Black Swan' party. She wields the forbidden 'Necromancy'bogus skill, allowing her to control the dead and undead creatures at will."
+    },
+    "inspector": {
+      "name": "Holy Maiden",
+      "cv": "CV. Sayaka Ohara",
+      "description": "The director of the Adventurers' Guild Inspection Bureau. Responsible for overseeing adventurers'bogus skills, ranks, and team situations while maintaining guild order. As the head of the Inspection Bureau, she holds authority equal to the guild president and can make decisions for all guild departments. She also oversees the distribution of 'Skill Fruits,' allocating approximately 1,000 annually."
+    },
+    "investigator": {
+      "name": "Flower Hat",
+      "cv": "CV. Ai Kakuma",
+      "description": "The director of the Adventurers' Guild Research Bureau. Responsible for studying monster ecology, distribution, and terrain. She possesses the 'Book Reading' skill, allowing her to read any information written on paper."
+    },
+    "security": {
+      "name": "Tiger Beard",
+      "cv": "CV. Katsuhisa Houki",
+      "description": "The director of the Adventurers' Guild Security Bureau. Responsible for maintaining security in the Holy City and its surrounding areas. Confident in his combat abilities and strength, known for his distinctive 'Gahaha!' laugh."
+    },
+    "finance": {
+      "name": "Grave Keeper",
+      "cv": "CV. Takehito Koyasu",
+      "description": "The director of the Adventurers' Guild Finance Bureau. Manages quest rewards and guild finances. Very strict about rules and regulations, sometimes imposing fines as disciplinary measures."
+    }
   }
 }

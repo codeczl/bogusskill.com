@@ -37,26 +37,23 @@ export const Navigation = ({ categories }: navigationProp ) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const t = useTranslations('navigation');
 
-  const menuItems: {
-    label: string;
-    href: string;
-  }[] = [
+  const menuItems = [
     {
       label: t('homeBtn'),
-      href: "/",
-    },
-    {
-      label: t('categoryBtn'),
-      href: "/category",
+      href: '/'
     },
     {
       label: t('articleBtn'),
-      href: "/article",
+      href: '/articles'
+    },
+    {
+      label: t('categoryBtn'),
+      href: '/categories'
     },
     {
       label: t('changelogBtn'),
-      href: "/changelog",
-    },
+      href: '/changelog'
+    }
   ];
   const isMenuItemActive = (href: string) => {
     // console.log(pathname, href);

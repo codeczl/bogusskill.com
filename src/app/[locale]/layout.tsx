@@ -64,7 +64,11 @@ export default async function RootLayout({
         </head>
         <body className={cn(inter.className, sansFont.variable)}>
           <NextIntlClientProvider messages={messages}>
-            <ThemeProvider attribute="class">
+            <ThemeProvider 
+              attribute="class"
+              defaultTheme="dark"
+              enableSystem={false}
+            >
               <Layout>{children}</Layout>
               <GoogleAdsenseScript />
               <GoogleAnalyticsScript />

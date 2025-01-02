@@ -76,4 +76,280 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  /* 添加动漫手绘风格 */
+  .anime-title {
+    @apply relative;
+    font-family: 'Comic Sans MS', 'Microsoft YaHei', 'SimHei', 'Segoe UI', cursive;
+    text-shadow: 
+      3px 3px 0 #000,
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+    -webkit-text-stroke: 2px #000;
+    color: #FF4D8D;
+    animation: titlePulse 3s ease-in-out infinite;
+    position: relative;
+  }
+
+  .anime-title::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    color: rgba(255, 77, 141, 0.3);
+    animation: glowEffect 3s ease-in-out infinite;
+    filter: blur(4px);
+  }
+
+  /* 副标题样式 - 类似主标题但尺寸较小 */
+  .anime-subtitle {
+    @apply relative;
+    font-family: 'Comic Sans MS', 'Microsoft YaHei', 'SimHei', 'Segoe UI', cursive;
+    text-shadow: 
+      2px 2px 0 #000,
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+    -webkit-text-stroke: 1.5px #000;
+    color: #FF6B6B; /* 使用暖色调 */
+  }
+
+  .anime-text {
+    font-family: 'Microsoft YaHei', 'SimHei', 'Comic Sans MS', 'Segoe UI', sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1.8;
+  }
+
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-5px);
+    }
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+}
+
+@layer utilities {
+  /* 在现有样式的基础上添加 */
+  .bg-anime {
+    position: relative;
+  }
+
+  .bg-anime::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      transparent,
+      var(--background)
+    );
+    z-index: 1;
+  }
+
+  .text-shadow-anime {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .bg-gradient-center {
+    background: radial-gradient(
+      circle at center,
+      hsl(var(--background)) 20%,
+      hsla(var(--background), 0.7) 40%,
+      transparent 80%
+    );
+  }
+
+  .mystical-bg {
+    position: relative;
+    backdrop-filter: blur(8px);
+    background: rgba(255, 255, 255, 0.05);  /* 非常轻微的白色叠加 */
+  }
+
+  .mystical-bg::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.1) 0%,
+      rgba(255, 255, 255, 0.05) 50%,
+      rgba(0, 0, 0, 0.1) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .mystical-bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: inherit;
+    pointer-events: none;
+  }
+
+  .dark .mystical-bg {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  .dark .mystical-bg::before {
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.05) 0%,
+      rgba(255, 255, 255, 0.02) 50%,
+      rgba(0, 0, 0, 0.1) 100%
+    );
+  }
+}
+
+/* 添加新的动画效果 */
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2),
+                inset 0 0 20px rgba(255, 255, 255, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.3),
+                inset 0 0 30px rgba(255, 255, 255, 0.3);
+  }
+}
+
+.hero-section {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.1) 0%,
+    rgba(255, 255, 255, 0.05) 50%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+  animation: glow 3s ease-in-out infinite;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle at center,
+    rgba(255, 255, 255, 0.15) 0%,
+    transparent 70%
+  );
+  z-index: 0;
+}
+
+.dark .hero-section {
+  background: linear-gradient(
+    135deg,
+    rgba(30, 30, 30, 0.9) 0%,
+    rgba(20, 20, 20, 0.95) 100%
+  );
+}
+
+.dark .hero-section::before {
+  background: radial-gradient(
+    circle at center,
+    rgba(100, 100, 100, 0.15) 0%,
+    transparent 70%
+  );
+}
+
+/* 添加呼吸效果和重影动画 */
+@keyframes titlePulse {
+  0%, 100% {
+    transform: scale(1);
+    text-shadow: 
+      3px 3px 0 #000,
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+  }
+  50% {
+    transform: scale(1.02);
+    text-shadow: 
+      4px 4px 0 #000,
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000,
+      2px 2px 0 #000,
+      6px 6px 20px rgba(255, 0, 0, 0.3);
+  }
+}
+
+@keyframes glowEffect {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+/* 主标题样式 */
+.hero-title {
+  @apply relative;
+  font-family: 'Comic Sans MS', 'Segoe UI', cursive;
+  color: #FFFFFF;
+  text-shadow: 
+    3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    0 0 10px rgba(0,0,0,0.5);
+  -webkit-text-stroke: 2px #000;
+  animation: titlePulse 3s ease-in-out infinite;
+  position: relative;
+}
+
+.hero-title::before {
+  content: attr(data-text);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  color: rgba(255, 255, 255, 0.3);
+  animation: glowEffect 3s ease-in-out infinite;
+  filter: blur(4px);
+}
+
+/* 保持原来的 anime-title 样式 */
+.anime-title {
+  @apply relative;
+  font-family: 'Comic Sans MS', 'Segoe UI', cursive;
+  text-shadow: 
+    3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  -webkit-text-stroke: 2px #000;
+  color: #FF4D8D;
+  position: relative;
+}
+
+/* 普通标题样式，没有动画效果 */
+.static-title {
+  @apply relative;
+  font-family: 'Microsoft YaHei', 'SimHei', 'Comic Sans MS', 'Segoe UI', cursive;
+  text-shadow: 
+    3px 3px 0 #000,
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  -webkit-text-stroke: 2px #000;
+  color: #FF4D8D;
 }
