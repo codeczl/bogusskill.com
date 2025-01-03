@@ -15,6 +15,12 @@
 
 [
   {
+    "name": "动漫",
+    "src": "anime.jsonc",
+    "link": "anime",
+    "description": "ABEMA平台提供的官方动漫放送信息。2024年12月31日（星期二）24:00开始，地上波1周先行播出·独占见题放送。"
+  },
+  {
     "name": "小说",
     "src": "novel.jsonc",
     "link": "novel",

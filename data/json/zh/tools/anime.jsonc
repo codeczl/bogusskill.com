@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Crunchyroll",
+      "description": "Crunchyroll 是全球领先的动漫和漫画平台，提供大量的动漫剧集和电影，包括最新的季播剧和经典作品。",
+      "url": "https://www.crunchyroll.com/"
+    },
+    {
+      "name": "dアニメストア (d Anime Store)",
+      "description": "dアニメストア 是日本最大的动漫订阅服务之一，提供超过6000部动漫作品的观看，包括最新的季播剧和经典作品。",
+      "url": "https://animestore.docomo.ne.jp/animestore/CF/search_index"
+    },
+    {
+      "name": "DMM TV",
+      "description": "DMM TV 提供丰富的动漫、电影、电视剧等娱乐内容，用户可以通过订阅观看各种类型的作品。",
+      "url": "https://tv.dmm.com/vod/"
+    },
+    {
+      "name": "WOWOW",
+      "description": "WOWOW 是日本的付费电视台，提供高质量的动漫、电影和电视剧等内容。",
+      "url": "https://www.b-ch.com/"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "description": "Amazon Prime Video 提供广泛的动漫、电影和电视剧等内容，用户可以通过订阅观看各种类型的作品。",
+      "url": "https://www.amazon.co.jp/gp/video/storefront"
+    },
+    {
+      "name": "FOD (Fuji TV On Demand)",
+      "description": "FOD 是富士电视台的在线视频平台，提供丰富的动漫、电视剧和电影等内容。",
+      "url": "https://fod.fujitv.co.jp/"
+    }
+  ]

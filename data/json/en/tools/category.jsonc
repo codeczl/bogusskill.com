@@ -14,19 +14,26 @@
 // 3. Do not submit tools that are unrelated to development.
 
 [
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Official anime broadcast information provided by the ABEMA platform. Starting from 24:00 on December 31, 2024 (Tuesday), a one-week prior terrestrial broadcast and exclusive preview will be aired. "
+    }
+    ,
   {
-    "name": "novel",
+    "name": "Novel",
     "src": "novel.jsonc",
     "link": "novel",
     "description": "A platform for exploring, reading, and analyzing various novels. Track your reading progress and discover new stories."
   },
   {
-    "name": "manga",
+    "name": "Manga",
     "src": "manga.jsonc",
     "link": "manga",
     "description": "A collection of manga stories, providing tools to track and explore new releases. Get insights into your favorite series and characters."
   }
-  
+
   // B
   // C
   // D

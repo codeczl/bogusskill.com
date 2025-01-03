@@ -1,7 +1,7 @@
 // pages/index.js
 import React, { Suspense } from 'react'; // 确保导入 React
 import { getSortedPostsData } from '@/lib/posts'
-import { getCategories } from '@/lib/data';
+import { getCategories, getDataList } from '@/lib/data';
 
 import { ToolsList } from '@/components/ToolsList';
 import { ArticleList } from '@/components/ArticleList'
@@ -241,64 +241,69 @@ export default async function Home() {
 </div>
 </section>
       {/* Categories Section */}
-{categories.map((category: categoryType, index: React.Key | null | undefined) => (
-  <section key={index} className="space-y-8 text-center p-8 mystical-bg rounded-lg relative overflow-hidden backdrop-blur-sm">
-    <div className="relative z-10">
-      <h2 className="text-5xl font-bold tracking-tight static-title mb-6 inline-block">
-        {category.name}
-        <div className="h-2 w-full bg-white/20 mt-2 rounded-full"></div>
-      </h2>
-      <p className="text-xl md:text-2xl tracking-tight anime-text mb-8 max-w-3xl mx-auto">
-        {category.description}
-      </p>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {/* 单个资源卡片 */}
-        <div 
-          className="group relative bg-white/5 backdrop-blur p-6 rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-1"
-        >
-          {/* 装饰性边框 - 点状边角 */}
-          <div className="absolute top-0 left-0 w-16 h-16">
-            <div className="absolute top-2 left-2 w-2 h-2 bg-white/30 rounded-full"></div>
-            <div className="absolute top-2 left-6 w-2 h-2 bg-white/20 rounded-full"></div>
-            <div className="absolute top-6 left-2 w-2 h-2 bg-white/20 rounded-full"></div>
-          </div>
-          <div className="absolute top-0 right-0 w-16 h-16 transform rotate-90">
-            <div className="absolute top-2 left-2 w-2 h-2 bg-white/30 rounded-full"></div>
-            <div className="absolute top-2 left-6 w-2 h-2 bg-white/20 rounded-full"></div>
-            <div className="absolute top-6 left-2 w-2 h-2 bg-white/20 rounded-full"></div>
-          </div>
-
-          {/* 内容区域 */}
+      {categories.map((category: categoryType, index: React.Key | null | undefined) => (
+        <section key={index} className="space-y-8 text-center p-8 mystical-bg rounded-lg relative overflow-hidden backdrop-blur-sm">
           <div className="relative z-10">
-            <h3 className="text-xl font-bold mb-2 anime-subtitle group-hover:text-purple-300 transition-colors">
+            <h2 className="text-5xl font-bold tracking-tight static-title mb-6 inline-block">
               {category.name}
-            </h3>
-            <p className="text-sm text-white/70 mb-4 line-clamp-2">
+              <div className="h-2 w-full bg-white/20 mt-2 rounded-full"></div>
+            </h2>
+            <p className="text-xl md:text-2xl tracking-tight anime-text mb-8 max-w-3xl mx-auto">
               {category.description}
             </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {getDataList(category.src, locale)?.slice(0, 6).map((item: any, itemIndex: number) => (
+                <a 
+                  key={itemIndex}
+                  href={item.url} // 添加链接
+                  target="_blank"  // 新窗口打开
+                  rel="noopener noreferrer"
+                  className="group relative bg-white/5 backdrop-blur p-6 rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-1"
+                >
+                  {/* 装饰性边框 - 点状边角 */}
+                  <div className="absolute top-0 left-0 w-16 h-16">
+                    <div className="absolute top-2 left-2 w-2 h-2 bg-white/30 rounded-full"></div>
+                    <div className="absolute top-2 left-6 w-2 h-2 bg-white/20 rounded-full"></div>
+                    <div className="absolute top-6 left-2 w-2 h-2 bg-white/20 rounded-full"></div>
+                  </div>
+                  <div className="absolute top-0 right-0 w-16 h-16 transform rotate-90">
+                    <div className="absolute top-2 left-2 w-2 h-2 bg-white/30 rounded-full"></div>
+                    <div className="absolute top-2 left-6 w-2 h-2 bg-white/20 rounded-full"></div>
+                    <div className="absolute top-6 left-2 w-2 h-2 bg-white/20 rounded-full"></div>
+                  </div>
 
-            {/* 链接指示器 */}
-            <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity">
-              <svg 
-                className="w-6 h-6 text-white/50" 
-                fill="none" 
-                stroke="currentColor" 
-                viewBox="0 0 24 24"
-              >
-                <path 
-                  strokeLinecap="round" 
-                  strokeLinejoin="round" 
-                  strokeWidth={2} 
-                  d="M17 8l4 4m0 0l-4 4m4-4H3" 
-                />
-              </svg>
+                  {/* 内容区域 */}
+                  <div className="relative z-10">
+                    <h3 className="text-xl font-bold mb-2 anime-subtitle group-hover:text-purple-300 transition-colors">
+                      {item.name}
+                    </h3>
+                    <p className="text-sm text-white/70 mb-4 line-clamp-2">
+                      {item.description}
+                    </p>
+
+                    {/* 链接指示器 */}
+                    <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity">
+                      <svg 
+                        className="w-6 h-6 text-white/50" 
+                        fill="none" 
+                        stroke="currentColor" 
+                        viewBox="0 0 24 24"
+                      >
+                        <path 
+                          strokeLinecap="round" 
+                          strokeLinejoin="round" 
+                          strokeWidth={2} 
+                          d="M17 8l4 4m0 0l-4 4m4-4H3" 
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </a>
+              ))}
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-))}
+        </section>
+      ))}
 
       {/* Articles Section */}
       <section className="space-y-8 text-center p-8 mystical-bg rounded-lg relative overflow-hidden backdrop-blur-sm">

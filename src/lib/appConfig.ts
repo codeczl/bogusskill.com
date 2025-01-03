@@ -1,11 +1,12 @@
 export const appConfig = {
     i18n: {
       // locales: ["en", "de", "es"] as const,
-      locales: ["en", "zh"] as const,
+      locales: ["en", "zh", "hi"] as const,
       defaultLocale: "en" as const,
       localeLabels: {
         en: "English",
         zh: "简体中文",
+        hi: 'हिंदी'  // 添加印地语标签
         // es: "Español",
         // de: "Deutsch",
         // fr: "asdf",
