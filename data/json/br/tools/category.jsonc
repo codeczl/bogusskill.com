@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Informações oficiais de transmissão de anime fornecidas pela plataforma ABEMA. A partir das 24:00 de 31 de dezembro de 2024 (terça-feira), será transmitida uma prévia exclusiva e transmissão terrestre com uma semana de antecedência."
+    },
+    {
+      "name": "Novel",
+      "src": "novel.jsonc",
+      "link": "novel",
+      "description": "Uma plataforma para explorar, ler e analisar várias novelas. Acompanhe seu progresso de leitura e descubra novas histórias."
+    },
+    {
+      "name": "Mangá",
+      "src": "manga.jsonc",
+      "link": "manga",
+      "description": "Uma coleção de histórias em mangá, fornecendo ferramentas para acompanhar e explorar novos lançamentos. Obtenha informações sobre suas séries e personagens favoritos."
+    }
+]

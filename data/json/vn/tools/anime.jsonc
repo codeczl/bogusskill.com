@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Crunchyroll",
+      "description": "Crunchyroll là nền tảng anime và manga hàng đầu thế giới, cung cấp bộ sưu tập phong phú các chương trình và phim anime, bao gồm các chương trình theo mùa mới nhất và nội dung kinh điển.",
+      "url": "https://www.crunchyroll.com/"
+    },
+    {
+      "name": "dアニメストア (d Anime Store)",
+      "description": "dアニメストア là một trong những dịch vụ đăng ký anime lớn nhất Nhật Bản, cung cấp bộ sưu tập hơn 6000 chương trình và phim anime, bao gồm các chương trình theo mùa mới nhất và tác phẩm kinh điển.",
+      "url": "https://animestore.docomo.ne.jp/animestore/CF/search_index"
+    },
+    {
+      "name": "DMM TV",
+      "description": "DMM TV là nền tảng cung cấp nhiều loại anime, phim và chương trình truyền hình, cho phép người dùng xem nhiều loại nội dung khác nhau.",
+      "url": "https://tv.dmm.com/vod/"
+    },
+    {
+      "name": "WOWOW",
+      "description": "WOWOW là dịch vụ truyền hình trả phí của Nhật Bản cung cấp anime, phim và chương trình truyền hình chất lượng cao.",
+      "url": "https://www.b-ch.com/"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "description": "Amazon Prime Video cung cấp nhiều loại anime, phim và chương trình truyền hình, cho phép người dùng truy cập nhiều loại nội dung thông qua đăng ký.",
+      "url": "https://www.amazon.co.jp/gp/video/storefront"
+    },
+    {
+      "name": "FOD (Fuji TV On Demand)",
+      "description": "FOD là nền tảng video trực tuyến được vận hành bởi Fuji TV, cung cấp anime, chương trình truyền hình và phim.",
+      "url": "https://fod.fujitv.co.jp/"
+    }
+]

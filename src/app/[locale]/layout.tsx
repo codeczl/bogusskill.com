@@ -13,6 +13,7 @@ import { cn } from "@/lib/utils";
 
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+import { appConfig } from '@/lib/appConfig'
 
 const inter = Inter({ subsets: ['latin'] })
 const sansFont = DM_Sans({
@@ -36,14 +37,10 @@ export const metadata: Metadata = {
     }
   },
   icons: {
-    icon: [
-      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
-      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
-      { url: '/favicon-512x512.png', sizes: '512x512', type: 'image/png' },
-    ],
-    apple: [
-      { url: '/favicon-512x512.png', sizes: '512x512', type: 'image/png' },
-    ],
+    icon: appConfig.siteImage.favicon,
+  },
+  openGraph: {
+    images: [appConfig.siteImage.thumbnail],
   },
 }
 
@@ -61,6 +58,7 @@ export default async function RootLayout({
       <html lang={locale} suppressHydrationWarning>
         <head>
           <meta name="google-adsense-account" content="ca-pub-8919061004428483" />
+          <link rel="icon" href={appConfig.siteImage.favicon} />
         </head>
         <body className={cn(inter.className, sansFont.variable)}>
           <NextIntlClientProvider messages={messages}>

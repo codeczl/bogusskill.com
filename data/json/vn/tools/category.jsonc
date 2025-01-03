@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Thông tin phát sóng anime chính thức được cung cấp bởi nền tảng ABEMA. Bắt đầu từ 24:00 ngày 31 tháng 12 năm 2024 (Thứ Ba), một chương trình phát sóng mặt đất trước một tuần và xem trước độc quyền sẽ được phát sóng."
+    },
+    {
+      "name": "Tiểu Thuyết",
+      "src": "novel.jsonc",
+      "link": "novel",
+      "description": "Nền tảng để khám phá, đọc và phân tích các tiểu thuyết khác nhau. Theo dõi tiến độ đọc của bạn và khám phá những câu chuyện mới."
+    },
+    {
+      "name": "Manga",
+      "src": "manga.jsonc",
+      "link": "manga",
+      "description": "Bộ sưu tập truyện manga, cung cấp công cụ để theo dõi và khám phá các tập mới. Tìm hiểu thêm về các series và nhân vật yêu thích của bạn."
+    }
+] 

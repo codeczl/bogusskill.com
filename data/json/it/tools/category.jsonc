@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Informazioni ufficiali sulla trasmissione anime fornite dalla piattaforma ABEMA. A partire dalle 24:00 del 31 dicembre 2024 (martedì), verrà trasmessa un'anteprima esclusiva e una trasmissione terrestre con una settimana di anticipo."
+    },
+    {
+      "name": "Novel",
+      "src": "novel.jsonc",
+      "link": "novel",
+      "description": "Una piattaforma per esplorare, leggere e analizzare vari romanzi. Tieni traccia dei tuoi progressi di lettura e scopri nuove storie."
+    },
+    {
+      "name": "Manga",
+      "src": "manga.jsonc",
+      "link": "manga",
+      "description": "Una collezione di storie manga, che fornisce strumenti per tenere traccia ed esplorare nuove uscite. Ottieni informazioni sulle tue serie e personaggi preferiti."
+    }
+] 

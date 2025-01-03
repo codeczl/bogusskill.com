@@ -1,0 +1,272 @@
+{
+  "home": {
+    "meta_title": "Bogus Skill: Esplora il Mondo del Manga e Anime Fruitmaster",
+    "meta_description": "Immergiti nell'emozionante universo di Bogus Skill. Leggi manga, guarda anime e unisciti alla nostra appassionata comunità!",
+    "h2": "Benvenuto nel Mondo di Bogus Skill",
+    "description": "『外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～』",
+    "hero": {
+      "title": "INTRODUZIONE",
+      "subtitle": "《Fruitmaster》",
+      "description": "In un mondo dove mangiare \"Bogus Skill Fruits\" conferisce abilità speciali...",
+      "story_line1": "Un giovane avventuriero di nome Light, che aspira a diventare il più forte, ha ottenuto...",
+      "story_line2": "Una bogus skill apparentemente inutile che trasforma i frutti in «Fruitmaster».",
+      "story_line3": "\"Bogus Skill Fruits\" devono essere mangiati di nuovo per mantenere il loro potere, rendendoli insostituibili.",
+      "story_line4": "Nel frattempo, il suo amico d'infanzia Ray, che aveva promesso di \"diventare un avventuriero insieme\",",
+      "story_line5": "Ha raggiunto il più alto grado S nella storia, creando un enorme divario tra loro.",
+      "story_line6": "Un giorno, mentre Light vive la sua pacifica vita da contadino,",
+      "story_line7": "Accidentalmente consuma un secondo \"Skill Fruit\"—",
+      "dramatic_text": "\"Perché non sono morto...!?\"",
+      "reveal_text": "Light, sopravvissuto a ciò che doveva essere fatale, scopre il vero potere del «Fruitmaster».",
+      "power_text": "Era l'abilità di mangiare \"Bogus Skill Fruits\" all'infinito!",
+      "cheat_text": "Un super-cheat che aggiunge abilità ad ogni consumo!!",
+      "twist_text": "La bogus skill di rango più basso era in realtà la più forte!!!",
+      "epic_conclusion": "La fantasia del successo di un uomo che dicevano non potesse diventare un avventuriero inizia ora...!"
+    },
+    "latest": {
+      "title": "Ultimi Episodi e Capitoli di Bogus Skill",
+      "episodes": [
+        {
+          "title": "Episodio 1 - Bogus Skill: Fruitmaster",
+          "date": "Rilasciato il 1 Gennaio 2025",
+          "action": "Guarda Ora"
+        },
+        {
+          "title": "Capitolo 15 - I Frutti del Potere",
+          "date": "Rilasciato il 25 Dicembre 2024",
+          "action": "Leggi Manga"
+        },
+        {
+          "title": "Episodio 2 - Il Ritorno del Maestro",
+          "date": "Rilasciato l'8 Gennaio 2025",
+          "action": "Guarda Ora"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Compendio delle Bogus Skill",
+      "subtitle": "Effetti Conosciuti delle Bogus Skill",
+      "description": "In questo mondo, consumare i Bogus Skill Fruits conferisce varie abilità uniche. Ecco alcune delle Bogus skill più importanti conosciute:",
+      "skills": [
+        {
+          "name": "Fruitmaster",
+          "japanese": "木の実マスター",
+          "description": "Inizialmente considerata una Bogus skill agricola inutile che accelera la crescita dei frutti e aumenta il raccolto. Tuttavia, conferisce anche al possessore l'immunità alla tossicità dei Bogus Skill Fruit, permettendogli di consumare in sicurezza più Bogus Skill Fruits e ottenere molteplici abilità.",
+          "type": "Speciale"
+        },
+        {
+          "name": "Swordmaster",
+          "japanese": "剣聖",
+          "description": "Aumenta notevolmente il potere d'attacco del possessore e fornisce resistenza magica quando impugna una spada. Questa potente Bogus skill da combattimento conferisce al possessore un significativo vantaggio in battaglia.",
+          "type": "Combattimento"
+        },
+        {
+          "name": "Appraisal",
+          "japanese": "鑑定",
+          "description": "Permette al possessore di visualizzare informazioni sulle caratteristiche, Bogus skill e altri attributi del bersaglio, fornendo informazioni sulle capacità sia degli alleati che dei nemici. Questa Bogus skill è altamente pratica sia in combattimento che nella vita quotidiana.",
+          "type": "Supporto"
+        },
+        {
+          "name": "Super Refinement",
+          "japanese": "超精錬",
+          "description": "Permette al possessore di forgiare metalli con le proprietà desiderate attraverso la martellatura, adatto per creare armi ed equipaggiamenti potenti. È una Bogus skill chiave per creare equipaggiamenti di grado leggendario.",
+          "type": "Artigianato"
+        },
+        {
+          "name": "Necromancy",
+          "japanese": "死霊操作",
+          "description": "Una Bogus skill proibita che permette al possessore di controllare i morti o le creature non morte. Sebbene potente, l'uso di questa Bogus skill comporta un pesante fardello mentale.",
+          "type": "Proibito"
+        },
+        {
+          "name": "Book Reading",
+          "japanese": "書物閲覧",
+          "description": "Permette al possessore di visualizzare qualsiasi informazione scritta, anche contenuti nascosti o criptati. Particolarmente utile per raccogliere informazioni e decifrare documenti antichi.",
+          "type": "Supporto"
+        },
+        {
+          "name": "Healing",
+          "japanese": "治癒",
+          "description": "Conferisce al possessore la capacità di guarire ferite e curare malattie, utilizzata per supportare gli alleati o per l'autoguarigione. Una Bogus skill indispensabile per le avventure pericolose.",
+          "type": "Recupero"
+        },
+        {
+          "name": "Fire Control",
+          "japanese": "火炎操作",
+          "description": "Permette al possessore di generare e controllare il fuoco per attacchi o altri scopi. La temperatura e la portata delle fiamme possono essere regolate in base alla competenza dell'utilizzatore.",
+          "type": "Elementale"
+        },
+        {
+          "name": "Invisibility",
+          "japanese": "隠身",
+          "description": "Permette al possessore di diventare invisibile per un certo periodo, evitando il rilevamento o utilizzato per attacchi a sorpresa. La durata dell'invisibilità completa dipende dalle riserve di mana dell'utilizzatore.",
+          "type": "Speciale"
+        }
+      ]
+    },
+    "pv": {
+      "title": "Video Promozionali",
+      "subtitle": "Guarda i PV Ufficiali",
+      "description": "Vivi la magia di Bogus Skill attraverso i nostri video promozionali ufficiali!",
+      "pv1": {
+        "title": "Primo PV",
+        "description": "L'avventura di un ragazzo inizia con un frutto inaspettato..."
+      },
+      "pv2": {
+        "title": "Secondo PV",
+        "description": "Il vero potere dell'abilità più debole sta per risvegliarsi!"
+      }
+    },
+    "anime": {
+      "title": "Annuncio Anime",
+      "broadcast": {
+        "title": "Informazioni sulla Trasmissione",
+        "date": "In onda da Gennaio 2025",
+        "description": "L'adattamento anime di \"Bogus Skill: Fruitmaster\" (Hazure Skill 'Kinomi Master' Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite) è stato confermato per iniziare la trasmissione a Gennaio 2025.",
+        "origin": "Originariamente dal sito di pubblicazione di romanzi \"Shousetsuka ni Narou\", quest'opera racconta la fantasia di successo di un ragazzo che mira a diventare il più grande avventuriero della storia."
+      },
+      "announcement": {
+        "title": "Ultimi Annunci",
+        "visual": "Visual principale rilasciato",
+        "pv": "Teaser PV ora disponibile",
+        "cast": "Cast principale rivelato"
+      },
+      "production": {
+        "studio": "Prodotto da K Ranobe Books",
+        "staff": "Informazioni su Staff & Cast"
+      },
+      "cast": {
+        "title": "Cast Vocale",
+        "light": "Light - Takuma Nagatsuka",
+        "lena": "Lena - Lynn",
+        "ayla": "Ayla - Kazuki Mikawa",
+        "monica": "Monica - Hana Shugibe",
+        "dratena": "Dratena - Akari Sekine"
+      }
+    }
+  },
+
+  "category": {
+    "meta_title": "Categorie",
+    "meta_description": "Trova qui le categorie di risorse che stai cercando",
+    "homeBtn": "Home",
+    "categoryBtn": "Categorie",
+    "h1": "Categorie di Risorse",
+    "h2": "Trova qui le categorie di risorse che stai cercando",
+    "h2description": "Tutte le risorse ordinate alfabeticamente"
+  },
+
+  "article": {
+    "meta_title": "Articoli",
+    "meta_description": "Leggi articoli sul più recente Bogus Skill",
+    "h1": "Articoli",
+    "h2": "Leggi Altri Articoli Correlati",
+    "homeBtn": "Home",
+    "articleBtn": "Articoli",
+    "backToArticles": "Torna alla Lista degli Articoli"
+  },
+
+  "changelog": {
+    "meta_title": "Registro delle Modifiche",
+    "meta_description": "Scopri gli ultimi aggiornamenti",
+    "h1": "Registro delle Modifiche",
+    "h2": "Scopri gli ultimi aggiornamenti",
+    "homeBtn": "Home",
+    "changelogBtn": "Registro delle Modifiche"
+  },
+
+  "search": {
+    "input_placeholder": "Cerca per nome/tag...",
+    "heading": "Suggerimenti",
+    "more": "Altro",
+    "button": "Cerca"
+  },
+
+  "navigation": {
+    "homeBtn": "Home",
+    "categoryBtn": "Categorie",
+    "moreCategoryBtn": "Altro",
+    "moreCategoryDescription": "Più Categorie",
+    "articleBtn": "Articoli",
+    "articleDescription": "Esplora il Mondo del Manga e Anime Bogus Skill",
+    "article1Title": "Fruitmaster: Una Nuova Esperienza di Gioco",
+    "article2Title": "Manga Bogus Skill: Rompere i Generi Tradizionali",
+    "moreArticleBtn": "Altro",
+    "moreArticleDescription": "Altri articoli",
+    "changelogBtn": "Registro delle Modifiche"
+  },
+
+  "toolsList": {
+    "more": "Altro",
+    "tools": ""
+  },
+
+  "footer": {
+    "description": "Scopri l'emozionante mondo di Bogus Skill attraverso manga, romanzi e anime",
+    "tagline": "La Tua Destinazione Definitiva per Manga e Anime",
+    "quickLinks": "Link Rapidi",
+    "home": "Home",
+    "category": "Categorie",
+    "article": "Articoli",
+    "changelog": "Registro delle Modifiche",
+    "privacy": "Informativa sulla Privacy",
+    "termsOfService": "Termini di Servizio",
+    "legal": "Note Legali",
+    "connect": "Contattaci",
+    "support": "Supporto",
+    "copyright": "Tutti i diritti riservati."
+  },
+
+  "articleList": {
+    "h2": "Articoli",
+    "moreArticles": "Altri Articoli"
+  },
+
+  "characters": {
+    "title": "Personaggi",
+    "light": {
+      "name": "Light",
+      "cv": "CV. Takuma Nagatsuka",
+      "description": "Un giovane ragazzo che sogna di diventare un avventuriero fin dall'infanzia. Ha ricevuto la Bogus skill 'Fruitmaster', considerata inutile in combattimento, e si guadagna da vivere come contadino vendendo frutti. Nonostante ciò, continua persistentemente il suo allenamento con la spada. Inizialmente deluso da questa abilità che accelera solo la crescita dei frutti e aumenta il raccolto, accidentalmente consuma un secondo 'Skill Fruit' e scopre di poter ottenere abilità aggiuntive e resistenza al veleno—un vantaggio a livello di cheat."
+    },
+    "lena": {
+      "name": "Lena",
+      "cv": "CV. Lynn",
+      "description": "Una ragazza che possiede la Bogus skill 'Swordmaster', che aumenta notevolmente il suo potere d'attacco e la resistenza magica quando impugna una spada. Ha promesso al suo amico d'infanzia Light di diventare avventurieri insieme, ma è stata portata nella Città Santa dopo essere stata riconosciuta come un prodigio che si vede una volta ogni decade. È allegra e di buon cuore, mostrando un talento straordinario diventando un'avventuriera di rango S più velocemente di chiunque altro nella storia. Sebbene sia membro del gruppo di rango S 'Sacred', nutre dubbi sui loro metodi e sulla loro atmosfera."
+    },
+    "ayla": {
+      "name": "Ayla",
+      "cv": "CV. Kazuki Mikawa",
+      "description": "Una giovane ragazza affidata alle cure di Light dal capo del villaggio. Nonostante viva in povertà, non si lamenta mai e lavora diligentemente, condividendo le responsabilità della vita quotidiana con Light. Dopo aver accidentalmente consumato uno 'Skill Fruit', ha ottenuto l'abilità 'Appraisal', che le permette di identificare le caratteristiche e le abilità degli oggetti."
+    },
+    "monica": {
+      "name": "Monica",
+      "cv": "CV. Hana Tamagai",
+      "description": "Una fabbra abile rinomata come artigiana leggendaria. Possiede la Bogus skill 'Super Refinement', che le permette di alterare le proprietà del metallo attraverso la forgiatura a volontà. A causa di un certo incidente, ha smesso di forgiare spade."
+    },
+    "dratena": {
+      "name": "Dratena",
+      "cv": "CV. Akira Sekine",
+      "description": "Una ragazza misteriosa appartenente al gruppo 'Black Swan'. Brandisce la Bogus skill proibita 'Necromancy', che le permette di controllare i morti e le creature non morte a volontà."
+    },
+    "inspector": {
+      "name": "Holy Maiden",
+      "cv": "CV. Sayaka Ohara",
+      "description": "La direttrice dell'Ufficio Ispezioni della Gilda degli Avventurieri. Responsabile della supervisione delle Bogus skill degli avventurieri, dei ranghi e delle situazioni delle squadre, mantenendo l'ordine della gilda. Come capo dell'Ufficio Ispezioni, detiene un'autorità pari al presidente della gilda e può prendere decisioni per tutti i dipartimenti della gilda. Supervisiona anche la distribuzione degli 'Skill Fruits', allocandone circa 1.000 annualmente."
+    },
+    "investigator": {
+      "name": "Flower Hat",
+      "cv": "CV. Ai Kakuma",
+      "description": "La direttrice dell'Ufficio Ricerche della Gilda degli Avventurieri. Responsabile dello studio dell'ecologia dei mostri, della distribuzione e del terreno. Possiede l'abilità 'Book Reading', che le permette di leggere qualsiasi informazione scritta su carta."
+    },
+    "security": {
+      "name": "Tiger Beard",
+      "cv": "CV. Katsuhisa Houki",
+      "description": "Il direttore dell'Ufficio Sicurezza della Gilda degli Avventurieri. Responsabile del mantenimento della sicurezza nella Città Santa e nelle aree circostanti. Sicuro delle sue abilità di combattimento e della sua forza, noto per la sua caratteristica risata 'Gahaha!'"
+    },
+    "finance": {
+      "name": "Grave Keeper",
+      "cv": "CV. Takehito Koyasu",
+      "description": "Il direttore dell'Ufficio Finanze della Gilda degli Avventurieri. Gestisce le ricompense delle missioni e le finanze della gilda. Molto rigoroso con regole e regolamenti, a volte impone multe come misure disciplinari."
+    }
+  }
+}

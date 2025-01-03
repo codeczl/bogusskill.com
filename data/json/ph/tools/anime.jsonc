@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Crunchyroll",
+      "description": "Ang Crunchyroll mao ang nanguna nga plataporma sa anime ug manga sa tibuok kalibutan, nga naghatag og dakong koleksyon sa mga anime shows ug movies, lakip ang pinakabag-o nga seasonal shows ug classic nga mga sulod.",
+      "url": "https://www.crunchyroll.com/"
+    },
+    {
+      "name": "dアニメストア (d Anime Store)",
+      "description": "Ang dアニメストア usa sa pinakadako nga anime subscription services sa Japan, nga naghatag og koleksyon nga sobra sa 6000 ka anime shows ug movies, lakip ang pinakabag-o nga seasonal shows ug classics.",
+      "url": "https://animestore.docomo.ne.jp/animestore/CF/search_index"
+    },
+    {
+      "name": "DMM TV",
+      "description": "Ang DMM TV usa ka plataporma nga naghatag og daghang matang sa anime, movies, ug TV shows, nga nagtugot sa mga user sa pag-stream og lain-laing matang sa sulod.",
+      "url": "https://tv.dmm.com/vod/"
+    },
+    {
+      "name": "WOWOW",
+      "description": "Ang WOWOW usa ka Japanese pay-TV service nga naghatag og taas-kalidad nga anime, movies, ug TV shows.",
+      "url": "https://www.b-ch.com/"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "description": "Ang Amazon Prime Video naghatag og daghang matang sa anime, movies, ug TV shows, nga nagtugot sa mga user nga makasud sa lain-laing matang sa sulod pinaagi sa subscription.",
+      "url": "https://www.amazon.co.jp/gp/video/storefront"
+    },
+    {
+      "name": "FOD (Fuji TV On Demand)",
+      "description": "Ang FOD usa ka online video platform nga gipadagan sa Fuji TV, nga naghatag og anime, TV shows, ug movies.",
+      "url": "https://fod.fujitv.co.jp/"
+    }
+]

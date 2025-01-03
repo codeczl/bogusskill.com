@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Opisyal nga impormasyon sa pagpasalida sa anime nga gihatag sa ABEMA platform. Sugod sa 24:00 sa Disyembre 31, 2024 (Martes), usa ka semana nga advance terrestrial broadcast ug exclusive preview ang ipasalida."
+    },
+    {
+      "name": "Novel",
+      "src": "novel.jsonc",
+      "link": "novel",
+      "description": "Usa ka plataporma alang sa pagsuhid, pagbasa, ug pag-analisa sa lain-laing mga nobela. Sunda ang imong progress sa pagbasa ug diskobre og bag-ong mga istorya."
+    },
+    {
+      "name": "Manga",
+      "src": "manga.jsonc",
+      "link": "manga",
+      "description": "Usa ka koleksyon sa mga istorya sa manga, nga naghatag og mga tools sa pagsunod ug pagsuhid sa bag-ong mga release. Pagkuha og mga insight sa imong paborito nga series ug mga karakter."
+    }
+] 

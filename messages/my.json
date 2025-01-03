@@ -1,0 +1,263 @@
+{
+  "home": {
+    "meta_title": "Bogus Skill: Jelajahi Dunia Manga & Anime Fruitmaster",
+    "meta_description": "Selami alam semesta yang menarik dari Bogus Skill. Baca manga, tonton anime, dan sertai komuniti kami yang bersemangat!",
+    "h2": "Selamat Datang ke Dunia Bogus Skill",
+    "description": "『外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～』",
+    "hero": {
+      "title": "PENGENALAN",
+      "subtitle": "《Fruitmaster》",
+      "description": "Di dunia di mana memakan \"Buah Kemahiran Bogus\" memberikan kebolehan istimewa...",
+      "story_line1": "Seorang pengembara muda bernama Light, yang berhasrat menjadi yang terkuat, memperoleh...",
+      "story_line2": "Kemahiran bogus yang kelihatan tidak berguna yang mengubah buah-buahan kayu menjadi «Fruitmaster».",
+      "story_line3": "\"Buah Kemahiran Bogus\" mesti dimakan semula untuk mengekalkan kuasanya, menjadikannya tidak terganti.",
+      "story_line4": "Sementara itu, kawan masa kecilnya Ray, yang berjanji untuk \"menjadi pengembara bersama,\"",
+      "story_line5": "Telah mencapai pangkat S tertinggi dalam sejarah, mewujudkan jurang besar antara mereka.",
+      "story_line6": "Suatu hari, semasa Light menjalani kehidupan bertaninya yang aman,",
+      "story_line7": "Dia secara tidak sengaja memakan \"Buah Kemahiran\" kedua—",
+      "dramatic_text": "\"Mengapa saya tidak mati...!?\"",
+      "reveal_text": "Light, yang terselamat dari apa yang sepatutnya membawa maut, menemui kuasa sebenar «Fruitmaster».",
+      "power_text": "Ia adalah kebolehan untuk memakan \"Buah Kemahiran Bogus\" tanpa had!",
+      "cheat_text": "Satu hiper-tipu yang menambah kebolehan dengan setiap pengambilan!!",
+      "twist_text": "Kemahiran bogus yang dinilai paling rendah sebenarnya yang terkuat!!!",
+      "epic_conclusion": "Fantasi kejayaan seorang lelaki yang dikatakan tidak boleh menjadi pengembara bermula sekarang...!"
+    },
+    "latest": {
+      "title": "Episod & Bab Terbaru Bogus Skill",
+      "episodes": [
+        {
+          "title": "Episod 1 - Bogus Skill: Fruitmaster",
+          "date": "Dikeluarkan pada 1 Januari 2025",
+          "action": "Tonton Sekarang"
+        },
+        {
+          "title": "Bab 15 - Buah-buahan Kuasa",
+          "date": "Dikeluarkan pada 25 Disember 2024",
+          "action": "Baca Manga"
+        },
+        {
+          "title": "Episod 2 - Kembalinya Sang Master",
+          "date": "Dikeluarkan pada 8 Januari 2025",
+          "action": "Tonton Sekarang"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Kompendium Kemahiran Bogus",
+      "subtitle": "Kesan-kesan Kemahiran Bogus Yang Diketahui",
+      "description": "Di dunia ini, memakan Buah Kemahiran Bogus memberikan pelbagai kebolehan unik. Berikut adalah beberapa Kemahiran Bogus penting yang diketahui:",
+      "skills": [
+        {
+          "name": "Fruitmaster",
+          "japanese": "木の実マスター",
+          "description": "Pada mulanya dianggap sebagai Kemahiran Bogus pertanian yang tidak berguna yang mempercepatkan pertumbuhan buah dan meningkatkan hasil. Namun, ia juga memberikan kekebalan kepada ketoksikan Buah Kemahiran Bogus kepada pemegangnya, membolehkan mereka memakan pelbagai Buah Kemahiran Bogus dengan selamat dan mendapat pelbagai kebolehan.",
+          "type": "Istimewa"
+        },
+        {
+          "name": "Swordmaster",
+          "japanese": "剣聖",
+          "description": "Meningkatkan kuasa serangan pemegang dan memberikan ketahanan sihir semasa menggunakan pedang. Kemahiran bogus pertempuran yang berkuasa ini memberikan kelebihan yang ketara dalam pertempuran.",
+          "type": "Pertempuran"
+        },
+        {
+          "name": "Appraisal",
+          "japanese": "鑑定",
+          "description": "Membolehkan pemegang melihat maklumat tentang ciri-ciri sasaran, kemahiran bogus, dan sifat-sifat lain, memberikan pandangan tentang kebolehan sekutu dan musuh. Kemahiran bogus ini sangat praktikal dalam pertempuran dan kehidupan harian.",
+          "type": "Sokongan"
+        },
+        {
+          "name": "Super Refinement",
+          "japanese": "超精錬",
+          "description": "Membolehkan pemegang menempa logam menjadi sifat yang dikehendaki melalui penempaan, sesuai untuk membuat senjata dan peralatan yang berkuasa. Ia adalah kemahiran bogus utama untuk mencipta peralatan gred legenda.",
+          "type": "Pertukangan"
+        },
+        {
+          "name": "Necromancy",
+          "japanese": "死霊操作",
+          "description": "Kemahiran bogus terlarang yang membolehkan pemegang mengawal makhluk mati atau tidak mati. Walaupun berkuasa, penggunaan kemahiran bogus ini datang dengan beban mental yang berat.",
+          "type": "Terlarang"
+        },
+        {
+          "name": "Book Reading",
+          "japanese": "書物閲覧",
+          "description": "Membolehkan pemegang melihat sebarang maklumat bertulis, walaupun kandungan tersembunyi atau tersulit. Sangat berguna untuk mengumpul maklumat risikan dan mentafsir dokumen kuno.",
+          "type": "Sokongan"
+        },
+        {
+          "name": "Healing",
+          "japanese": "治癒",
+          "description": "Memberikan pemegang kebolehan untuk menyembuhkan luka dan menyembuhkan penyakit, digunakan untuk menyokong sekutu atau pemulihan diri. Kemahiran bogus yang sangat diperlukan untuk pengembaraan berbahaya.",
+          "type": "Pemulihan"
+        },
+        {
+          "name": "Fire Control",
+          "japanese": "火炎操作",
+          "description": "Membolehkan pemegang menghasilkan dan mengawal api untuk serangan atau tujuan lain. Suhu dan jarak api boleh disesuaikan berdasarkan kemahiran pengguna.",
+          "type": "Unsur"
+        },
+        {
+          "name": "Invisibility",
+          "japanese": "隠身",
+          "description": "Membolehkan pemegang menjadi tidak kelihatan untuk tempoh tertentu, mengelakkan pengesanan atau digunakan untuk serangan mengejut. Tempoh ketidaknampakan lengkap bergantung pada simpanan mana pengguna.",
+          "type": "Istimewa"
+        }
+      ]
+    },
+    "pv": {
+      "title": "Video Promosi",
+      "subtitle": "Tonton PV Rasmi",
+      "description": "Alami keajaiban Bogus Skill melalui video promosi rasmi kami!",
+      "pv1": {
+        "title": "PV Pertama",
+        "description": "Pengembaraan seorang budak bermula dengan buah yang tidak dijangka..."
+      },
+      "pv2": {
+        "title": "PV Kedua",
+        "description": "Kuasa sebenar kemahiran terlemah akan segera terbongkar!"
+      }
+    },
+    "anime": {
+      "title": "Pengumuman Anime",
+      "broadcast": {
+        "title": "Maklumat Siaran",
+        "date": "Disiarkan dari Januari 2025",
+        "description": "Adaptasi anime \"Bogus Skill: Fruitmaster\" (Hazure Skill 'Kinomi Master' Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite) telah disahkan akan mula disiarkan pada Januari 2025.",
+        "origin": "Berasal dari laman web novel \"Shousetsuka ni Narou,\" karya ini menceritakan fantasi kejayaan seorang budak yang berhasrat menjadi pengembara terhebat dalam sejarah."
+      },
+      "announcement": {
+        "title": "Pengumuman Terkini",
+        "visual": "Visual utama dikeluarkan",
+        "pv": "Teaser PV kini tersedia",
+        "cast": "Pelakon utama didedahkan"
+      },
+      "production": {
+        "studio": "Dihasilkan oleh K Ranobe Books",
+        "staff": "Maklumat Kakitangan & Pelakon"
+      },
+      "cast": {
+        "title": "Pelakon Suara",
+        "light": "Light - Takuma Nagatsuka",
+        "lena": "Lena - Lynn",
+        "ayla": "Ayla - Kazuki Mikawa",
+        "monica": "Monica - Hana Shugibe",
+        "dratena": "Dratena - Akari Sekine"
+      }
+    }
+  },
+  "category": {
+    "meta_title": "Kategori",
+    "meta_description": "Cari kategori sumber yang anda cari di sini",
+    "homeBtn": "Laman Utama",
+    "categoryBtn": "Kategori",
+    "h1": "Kategori Sumber",
+    "h2": "Cari kategori sumber yang anda cari di sini",
+    "h2description": "Semua sumber disusun mengikut abjad"
+  },
+  "article": {
+    "meta_title": "Artikel",
+    "meta_description": "Baca artikel tentang Bogus Skill terkini",
+    "h1": "Artikel",
+    "h2": "Baca Lebih Banyak Artikel Berkaitan",
+    "homeBtn": "Laman Utama",
+    "articleBtn": "Artikel",
+    "backToArticles": "Kembali ke Senarai Artikel"
+  },
+  "changelog": {
+    "meta_title": "Log Perubahan",
+    "meta_description": "Ketahui tentang kemas kini terkini",
+    "h1": "Log Perubahan",
+    "h2": "Ketahui tentang kemas kini terkini",
+    "homeBtn": "Laman Utama",
+    "changelogBtn": "Log Perubahan"
+  },
+  "search": {
+    "input_placeholder": "Cari mengikut nama/tag...",
+    "heading": "Cadangan",
+    "more": "Lagi",
+    "button": "Cari"
+  },
+  "navigation": {
+    "homeBtn": "Laman Utama",
+    "categoryBtn": "Kategori",
+    "moreCategoryBtn": "Lagi",
+    "moreCategoryDescription": "Lebih Banyak Kategori",
+    "articleBtn": "Artikel",
+    "articleDescription": "Jelajahi Dunia Manga & Anime Bogus Skill",
+    "article1Title": "Fruitmaster: Pengalaman Permainan Baharu",
+    "article2Title": "Manga Bogus Skill: Memecah Genre Tradisional",
+    "moreArticleBtn": "Lagi",
+    "moreArticleDescription": "Lebih banyak artikel",
+    "changelogBtn": "Log Perubahan"
+  },
+  "toolsList": {
+    "more": "Lagi",
+    "tools": ""
+  },
+  "footer": {
+    "description": "Temui dunia menarik Bogus Skill melalui manga, novel, dan anime",
+    "tagline": "Destinasi Utama Manga & Anime Anda",
+    "quickLinks": "Pautan Pantas",
+    "home": "Laman Utama",
+    "category": "Kategori",
+    "article": "Artikel",
+    "changelog": "Log Perubahan",
+    "privacy": "Dasar Privasi",
+    "termsOfService": "Terma Perkhidmatan",
+    "legal": "Notis Undang-undang",
+    "connect": "Hubungi Kami",
+    "support": "Sokongan",
+    "copyright": "Hak cipta terpelihara."
+  },
+  "articleList": {
+    "h2": "Artikel",
+    "moreArticles": "Lebih Banyak Artikel"
+  },
+  "characters": {
+    "title": "Watak-watak",
+    "light": {
+      "name": "Light",
+      "cv": "CV. Takuma Nagatsuka",
+      "description": "Seorang budak lelaki yang bermimpi menjadi pengembara sejak kecil. Dia menerima kemahiran bogus 'Fruitmaster' yang dianggap tidak berguna dalam pertempuran, dan mencari nafkah sebagai petani yang menjual buah-buahan. Walaupun begitu, dia tetap meneruskan latihan pedangnya. Pada mulanya kecewa dengan kemahiran ini yang hanya mempercepatkan pertumbuhan buah dan meningkatkan hasil, dia secara tidak sengaja memakan 'Buah Kemahiran' kedua dan mendapati dia boleh mendapat kebolehan tambahan dan ketahanan racun—kelebihan tahap tipu."
+    },
+    "lena": {
+      "name": "Lena",
+      "cv": "CV. Lynn",
+      "description": "Seorang gadis yang memiliki kemahiran bogus 'Swordmaster', yang sangat meningkatkan kuasa serangan dan ketahanan sihirnya semasa menggunakan pedang. Dia berjanji kepada kawan masa kecilnya Light untuk menjadi pengembara bersama tetapi dibawa ke Bandar Suci selepas diiktiraf sebagai prodigy sedekad. Dia ceria dan berhati mulia, menunjukkan bakat luar biasa dengan menjadi pengembara pangkat S lebih cepat daripada sesiapa dalam sejarah. Walaupun dia adalah ahli kumpulan pangkat S 'Sacred,' dia mempunyai keraguan tentang kaedah dan suasana mereka."
+    },
+    "ayla": {
+      "name": "Ayla",
+      "cv": "CV. Kazuki Mikawa",
+      "description": "Seorang gadis muda yang diamanahkan kepada penjagaan Light oleh ketua kampung. Walaupun hidup dalam kemiskinan, dia tidak pernah mengeluh dan bekerja dengan rajin, berkongsi tanggungjawab kehidupan harian dengan Light. Selepas secara tidak sengaja memakan 'Buah Kemahiran,' dia mendapat kemahiran 'Appraisal', membolehkan dia mengenal pasti ciri-ciri dan kebolehan item."
+    },
+    "monica": {
+      "name": "Monica",
+      "cv": "CV. Hana Tamagai",
+      "description": "Seorang tukang besi bogus yang terkenal sebagai tukang yang legenda. Dia memiliki kemahiran bogus 'Super Refinement', membolehkan dia mengubah sifat logam melalui penempaan mengikut kehendak. Disebabkan insiden tertentu, dia telah berhenti membuat pedang."
+    },
+    "dratena": {
+      "name": "Dratena",
+      "cv": "CV. Akira Sekine",
+      "description": "Seorang gadis misteri yang tergolong dalam kumpulan 'Black Swan'. Dia menguasai kemahiran bogus terlarang 'Necromancy', membolehkan dia mengawal makhluk mati dan tidak mati mengikut kehendak."
+    },
+    "inspector": {
+      "name": "Dara Suci",
+      "cv": "CV. Sayaka Ohara",
+      "description": "Pengarah Biro Pemeriksaan Persatuan Pengembara. Bertanggungjawab mengawasi kemahiran bogus, pangkat, dan situasi pasukan pengembara sambil mengekalkan ketenteraman persatuan. Sebagai ketua Biro Pemeriksaan, dia memegang kuasa yang sama dengan presiden persatuan dan boleh membuat keputusan untuk semua jabatan persatuan. Dia juga mengawasi pengagihan 'Buah Kemahiran,' memperuntukkan kira-kira 1,000 setiap tahun."
+    },
+    "investigator": {
+      "name": "Topi Bunga",
+      "cv": "CV. Ai Kakuma",
+      "description": "Pengarah Biro Penyelidikan Persatuan Pengembara. Bertanggungjawab mengkaji ekologi monster, taburan, dan rupa bumi. Dia memiliki kemahiran 'Book Reading', membolehkan dia membaca sebarang maklumat yang ditulis di atas kertas."
+    },
+    "security": {
+      "name": "Janggut Harimau",
+      "cv": "CV. Katsuhisa Houki",
+      "description": "Pengarah Biro Keselamatan Persatuan Pengembara. Bertanggungjawab mengekalkan keselamatan di Bandar Suci dan kawasan sekitarnya. Yakin dengan kebolehan pertempuran dan kekuatannya, terkenal dengan ketawa khasnya 'Gahaha!'"
+    },
+    "finance": {
+      "name": "Penjaga Kubur",
+      "cv": "CV. Takehito Koyasu",
+      "description": "Pengarah Biro Kewangan Persatuan Pengembara. Menguruskan ganjaran misi dan kewangan persatuan. Sangat ketat tentang peraturan dan undang-undang, kadang-kadang mengenakan denda sebagai langkah disiplin."
+    }
+  }
+}

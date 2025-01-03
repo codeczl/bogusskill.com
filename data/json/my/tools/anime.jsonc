@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Crunchyroll",
+      "description": "Crunchyroll adalah platform anime dan manga terkemuka di seluruh dunia, menawarkan koleksi rancangan dan filem anime yang luas, termasuk rancangan bermusim terkini dan kandungan klasik.",
+      "url": "https://www.crunchyroll.com/"
+    },
+    {
+      "name": "dアニメストア (d Anime Store)",
+      "description": "dアニメストア adalah salah satu perkhidmatan langganan anime terbesar di Jepun, menawarkan koleksi lebih 6000 rancangan dan filem anime, termasuk rancangan bermusim terkini dan klasik.",
+      "url": "https://animestore.docomo.ne.jp/animestore/CF/search_index"
+    },
+    {
+      "name": "DMM TV",
+      "description": "DMM TV adalah platform yang menawarkan pelbagai anime, filem, dan rancangan TV, memberikan pengguna pilihan untuk menstrim pelbagai jenis kandungan.",
+      "url": "https://tv.dmm.com/vod/"
+    },
+    {
+      "name": "WOWOW",
+      "description": "WOWOW adalah perkhidmatan TV berbayar Jepun yang menawarkan anime, filem, dan rancangan TV berkualiti tinggi.",
+      "url": "https://www.b-ch.com/"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "description": "Amazon Prime Video menawarkan pelbagai anime, filem, dan rancangan TV, memberikan pengguna akses kepada pelbagai jenis kandungan melalui langganan.",
+      "url": "https://www.amazon.co.jp/gp/video/storefront"
+    },
+    {
+      "name": "FOD (Fuji TV On Demand)",
+      "description": "FOD adalah platform video dalam talian yang dikendalikan oleh Fuji TV, menyediakan anime, rancangan TV, dan filem.",
+      "url": "https://fod.fujitv.co.jp/"
+    }
+]

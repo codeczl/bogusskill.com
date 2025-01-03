@@ -1,0 +1,263 @@
+{
+  "home": {
+    "meta_title": "Kỹ Năng Vô Dụng: Khám Phá Thế Giới Manga & Anime Fruitmaster",
+    "meta_description": "Đắm chìm vào thế giới hấp dẫn của Kỹ Năng Vô Dụng. Đọc manga, xem anime và tham gia cộng đồng đam mê của chúng tôi!",
+    "h2": "Chào mừng đến với Thế Giới của Kỹ Năng Vô Dụng",
+    "description": "『外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～』",
+    "hero": {
+      "title": "GIỚI THIỆU",
+      "subtitle": "《Fruitmaster》",
+      "description": "Trong một thế giới nơi việc tiêu thụ \"Quả Kỹ Năng Vô Dụng\" mang lại những khả năng đặc biệt...",
+      "story_line1": "Một nhà thám hiểm trẻ tên Light, với mục tiêu trở thành người mạnh nhất, đã có được...",
+      "story_line2": "Một kỹ năng vô dụng có vẻ như chỉ biến quả gỗ thành «Fruitmaster».",
+      "story_line3": "\"Quả Kỹ Năng Vô Dụng\" phải được ăn lại để duy trì sức mạnh, khiến chúng không thể thay thế.",
+      "story_line4": "Trong khi đó, người bạn thời thơ ấu Ray, người đã hứa \"cùng trở thành nhà thám hiểm,\"",
+      "story_line5": "Đã đạt đến hạng S cao nhất trong lịch sử, tạo ra khoảng cách lớn giữa họ.",
+      "story_line6": "Một ngày nọ, khi Light đang sống cuộc sống nông dân yên bình,",
+      "story_line7": "Anh vô tình tiêu thụ \"Quả Kỹ Năng\" thứ hai—",
+      "dramatic_text": "\"Tại sao tôi không chết...!?\"",
+      "reveal_text": "Light, người đã sống sót qua điều đáng lẽ phải chết, khám phá ra sức mạnh thực sự của «Fruitmaster».",
+      "power_text": "Đó là khả năng ăn \"Quả Kỹ Năng Vô Dụng\" vô hạn!",
+      "cheat_text": "Một siêu gian lận thêm khả năng với mỗi lần tiêu thụ!!",
+      "twist_text": "Kỹ năng vô dụng thấp nhất thực ra lại mạnh nhất!!!",
+      "epic_conclusion": "Câu chuyện thành công của một người bị nói rằng không thể trở thành nhà thám hiểm bắt đầu ngay bây giờ...!"
+    },
+    "latest": {
+      "title": "Tập & Chương Mới Nhất của Kỹ Năng Vô Dụng",
+      "episodes": [
+        {
+          "title": "Tập 1 - Kỹ Năng Vô Dụng: Fruitmaster",
+          "date": "Phát hành ngày 1 tháng 1, 2025",
+          "action": "Xem Ngay"
+        },
+        {
+          "title": "Chương 15 - Quả của Sức Mạnh",
+          "date": "Phát hành ngày 25 tháng 12, 2024",
+          "action": "Đọc Manga"
+        },
+        {
+          "title": "Tập 2 - Sự Trở Lại của Bậc Thầy",
+          "date": "Phát hành ngày 8 tháng 1, 2025",
+          "action": "Xem Ngay"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Tổng Hợp Kỹ Năng Vô Dụng",
+      "subtitle": "Các Hiệu Ứng Kỹ Năng Vô Dụng Đã Biết",
+      "description": "Trong thế giới này, việc tiêu thụ Quả Kỹ Năng Vô Dụng mang lại nhiều khả năng độc đáo. Dưới đây là một số Kỹ Năng Vô Dụng quan trọng đã biết:",
+      "skills": [
+        {
+          "name": "Fruitmaster",
+          "japanese": "木の実マスター",
+          "description": "Ban đầu được coi là kỹ năng nông nghiệp vô dụng chỉ đẩy nhanh sự phát triển và tăng năng suất của trái cây. Tuy nhiên, nó cũng cho phép người sở hữu miễn nhiễm với độc tính của Quả Kỹ Năng Vô Dụng, cho phép họ an toàn tiêu thụ nhiều Quả và đạt được nhiều khả năng.",
+          "type": "Đặc Biệt"
+        },
+        {
+          "name": "Swordmaster",
+          "japanese": "剣聖",
+          "description": "Tăng cường đáng kể sức mạnh tấn công và cung cấp khả năng kháng phép khi sử dụng kiếm. Kỹ năng chiến đấu mạnh mẽ này mang lại lợi thế đáng kể trong trận chiến.",
+          "type": "Chiến Đấu"
+        },
+        {
+          "name": "Appraisal",
+          "japanese": "鑑定",
+          "description": "Cho phép người sở hữu xem thông tin về đặc điểm, kỹ năng và các thuộc tính khác của mục tiêu, cung cấp hiểu biết về khả năng của cả đồng minh và kẻ thù. Kỹ năng này rất thực tế trong cả chiến đấu và cuộc sống hàng ngày.",
+          "type": "Hỗ Trợ"
+        },
+        {
+          "name": "Super Refinement",
+          "japanese": "超精錬",
+          "description": "Cho phép người sở hữu rèn kim loại thành các thuộc tính mong muốn thông qua việc rèn, phù hợp để chế tạo vũ khí và thiết bị mạnh mẽ. Đây là kỹ năng quan trọng để tạo ra thiết bị cấp huyền thoại.",
+          "type": "Chế Tạo"
+        },
+        {
+          "name": "Necromancy",
+          "japanese": "死霊操作",
+          "description": "Một kỹ năng bị cấm cho phép người sở hữu điều khiển người chết hoặc sinh vật không chết. Mặc dù mạnh mẽ, việc sử dụng kỹ năng này đi kèm với gánh nặng tinh thần lớn.",
+          "type": "Cấm Kỵ"
+        },
+        {
+          "name": "Book Reading",
+          "japanese": "書物閲覧",
+          "description": "Cho phép người sở hữu xem bất kỳ thông tin viết nào, kể cả nội dung ẩn hoặc được mã hóa. Đặc biệt hữu ích cho việc thu thập thông tin và giải mã tài liệu cổ.",
+          "type": "Hỗ Trợ"
+        },
+        {
+          "name": "Healing",
+          "japanese": "治癒",
+          "description": "Trao cho người sở hữu khả năng chữa lành vết thương và chữa bệnh, được sử dụng để hỗ trợ đồng minh hoặc tự phục hồi. Một kỹ năng không thể thiếu cho các cuộc phiêu lưu nguy hiểm.",
+          "type": "Hồi Phục"
+        },
+        {
+          "name": "Fire Control",
+          "japanese": "火炎操作",
+          "description": "Cho phép người sở hữu tạo ra và kiểm soát lửa để tấn công hoặc mục đích khác. Nhiệt độ và phạm vi của ngọn lửa có thể được điều chỉnh dựa trên sự thành thạo của người dùng.",
+          "type": "Nguyên Tố"
+        },
+        {
+          "name": "Invisibility",
+          "japanese": "隠身",
+          "description": "Cho phép người sở hữu trở nên vô hình trong một khoảng thời gian nhất định, tránh bị phát hiện hoặc dùng để tấn công bất ngờ. Thời gian vô hình hoàn toàn phụ thuộc vào trữ lượng mana của người dùng.",
+          "type": "Đặc Biệt"
+        }
+      ]
+    },
+    "pv": {
+      "title": "Video Quảng Bá",
+      "subtitle": "Xem PV Chính Thức",
+      "description": "Trải nghiệm sự kỳ diệu của Kỹ Năng Vô Dụng qua các video quảng bá chính thức!",
+      "pv1": {
+        "title": "PV Đầu Tiên",
+        "description": "Cuộc phiêu lưu của một cậu bé bắt đầu với một quả kỳ lạ..."
+      },
+      "pv2": {
+        "title": "PV Thứ Hai",
+        "description": "Sức mạnh thực sự của kỹ năng yếu nhất sắp thức tỉnh!"
+      }
+    },
+    "anime": {
+      "title": "Thông Báo Anime",
+      "broadcast": {
+        "title": "Thông Tin Phát Sóng",
+        "date": "Phát sóng từ tháng 1 năm 2025",
+        "description": "Phiên bản anime của \"Kỹ Năng Vô Dụng: Fruitmaster\" (Hazure Skill 'Kinomi Master' Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite) đã được xác nhận sẽ bắt đầu phát sóng vào tháng 1 năm 2025.",
+        "origin": "Bắt nguồn từ trang web đăng tiểu thuyết \"Shousetsuka ni Narou\", tác phẩm này kể về câu chuyện thành công của một cậu bé với mục tiêu trở thành nhà thám hiểm vĩ đại nhất trong lịch sử."
+      },
+      "announcement": {
+        "title": "Thông Báo Mới Nhất",
+        "visual": "Hình ảnh chính đã được công bố",
+        "pv": "Teaser PV đã có sẵn",
+        "cast": "Dàn diễn viên chính đã được tiết lộ"
+      },
+      "production": {
+        "studio": "Sản xuất bởi K Ranobe Books",
+        "staff": "Thông Tin Nhân Sự & Diễn Viên"
+      },
+      "cast": {
+        "title": "Dàn Diễn Viên Lồng Tiếng",
+        "light": "Light - Takuma Nagatsuka",
+        "lena": "Lena - Lynn",
+        "ayla": "Ayla - Kazuki Mikawa",
+        "monica": "Monica - Hana Shugibe",
+        "dratena": "Dratena - Akari Sekine"
+      }
+    }
+  },
+  "category": {
+    "meta_title": "Danh Mục",
+    "meta_description": "Tìm các danh mục tài nguyên bạn cần tại đây",
+    "homeBtn": "Trang Chủ",
+    "categoryBtn": "Danh Mục",
+    "h1": "Danh Mục Tài Nguyên",
+    "h2": "Tìm các danh mục tài nguyên bạn cần tại đây",
+    "h2description": "Tất cả tài nguyên được sắp xếp theo thứ tự bảng chữ cái"
+  },
+  "article": {
+    "meta_title": "Bài Viết",
+    "meta_description": "Đọc các bài viết về Kỹ Năng Vô Dụng mới nhất",
+    "h1": "Bài Viết",
+    "h2": "Đọc Thêm Bài Viết Liên Quan",
+    "homeBtn": "Trang Chủ",
+    "articleBtn": "Bài Viết",
+    "backToArticles": "Quay Lại Danh Sách Bài Viết"
+  },
+  "changelog": {
+    "meta_title": "Nhật Ký Thay Đổi",
+    "meta_description": "Tìm hiểu về các cập nhật mới nhất",
+    "h1": "Nhật Ký Thay Đổi",
+    "h2": "Tìm hiểu về các cập nhật mới nhất",
+    "homeBtn": "Trang Chủ",
+    "changelogBtn": "Nhật Ký Thay Đổi"
+  },
+  "search": {
+    "input_placeholder": "Tìm kiếm theo tên/thẻ...",
+    "heading": "Gợi Ý",
+    "more": "Xem Thêm",
+    "button": "Tìm Kiếm"
+  },
+  "navigation": {
+    "homeBtn": "Trang Chủ",
+    "categoryBtn": "Danh Mục",
+    "moreCategoryBtn": "Thêm",
+    "moreCategoryDescription": "Thêm Danh Mục",
+    "articleBtn": "Bài Viết",
+    "articleDescription": "Khám Phá Thế Giới Manga & Anime Kỹ Năng Vô Dụng",
+    "article1Title": "Fruitmaster: Trải Nghiệm Game Mới",
+    "article2Title": "Manga Kỹ Năng Vô Dụng: Phá Vỡ Thể Loại Truyền Thống",
+    "moreArticleBtn": "Thêm",
+    "moreArticleDescription": "Thêm bài viết",
+    "changelogBtn": "Nhật Ký Thay Đổi"
+  },
+  "toolsList": {
+    "more": "Thêm",
+    "tools": ""
+  },
+  "footer": {
+    "description": "Khám phá thế giới thú vị của Kỹ Năng Vô Dụng qua manga, tiểu thuyết và anime",
+    "tagline": "Điểm Đến Tối Ưu Cho Manga & Anime",
+    "quickLinks": "Liên Kết Nhanh",
+    "home": "Trang Chủ",
+    "category": "Danh Mục",
+    "article": "Bài Viết",
+    "changelog": "Nhật Ký Thay Đổi",
+    "privacy": "Chính Sách Bảo Mật",
+    "termsOfService": "Điều Khoản Dịch Vụ",
+    "legal": "Thông Báo Pháp Lý",
+    "connect": "Liên Hệ",
+    "support": "Hỗ Trợ",
+    "copyright": "Đã đăng ký bản quyền."
+  },
+  "articleList": {
+    "h2": "Bài Viết",
+    "moreArticles": "Thêm Bài Viết"
+  },
+  "characters": {
+    "title": "Nhân Vật",
+    "light": {
+      "name": "Light",
+      "cv": "CV. Takuma Nagatsuka",
+      "description": "Một cậu bé từ nhỏ đã mơ ước trở thành nhà thám hiểm. Cậu nhận được kỹ năng 'Fruitmaster' vô dụng trong chiến đấu và kiếm sống bằng nghề nông dân bán trái cây. Mặc dù vậy, cậu vẫn kiên trì luyện tập kiếm thuật. Ban đầu thất vọng với kỹ năng chỉ đẩy nhanh sự phát triển và tăng năng suất của trái cây, cậu vô tình tiêu thụ 'Quả Kỹ Năng' thứ hai và phát hiện ra mình có thể đạt được thêm khả năng và kháng độc—một lợi thế cấp độ gian lận."
+    },
+    "lena": {
+      "name": "Lena",
+      "cv": "CV. Lynn",
+      "description": "Một cô gái sở hữu kỹ năng 'Swordmaster', giúp tăng cường đáng kể sức mạnh tấn công và kháng phép khi sử dụng kiếm. Cô đã hứa với người bạn thời thơ ấu Light cùng trở thành nhà thám hiểm nhưng đã được đưa đến Thánh Thành sau khi được công nhận là thiên tài một thập kỷ mới có. Cô vui vẻ và ấm áp, thể hiện tài năng phi thường khi trở thành nhà thám hiểm hạng S nhanh nhất trong lịch sử. Mặc dù là thành viên của nhóm hạng S 'Sacred', cô vẫn có những nghi ngờ về phương pháp và bầu không khí của họ."
+    },
+    "ayla": {
+      "name": "Ayla",
+      "cv": "CV. Kazuki Mikawa",
+      "description": "Một cô bé được trưởng làng giao phó cho Light chăm sóc. Mặc dù sống trong nghèo khó, cô không bao giờ than phiền và làm việc chăm chỉ, chia sẻ trách nhiệm cuộc sống hàng ngày với Light. Sau khi vô tình tiêu thụ 'Quả Kỹ Năng', cô đã có được kỹ năng 'Appraisal', cho phép cô xác định đặc điểm và khả năng của vật phẩm."
+    },
+    "monica": {
+      "name": "Monica",
+      "cv": "CV. Hana Tamagai",
+      "description": "Một thợ rèn tài năng được công nhận là thợ thủ công huyền thoại. Cô sở hữu kỹ năng 'Super Refinement', cho phép cô thay đổi thuộc tính kim loại thông qua rèn theo ý muốn. Do một sự cố nào đó, cô đã ngừng rèn kiếm."
+    },
+    "dratena": {
+      "name": "Dratena",
+      "cv": "CV. Akira Sekine",
+      "description": "Một cô gái bí ẩn thuộc nhóm 'Black Swan'. Cô sử dụng kỹ năng cấm 'Necromancy', cho phép cô điều khiển người chết và sinh vật không chết theo ý muốn."
+    },
+    "inspector": {
+      "name": "Thánh Nữ",
+      "cv": "CV. Sayaka Ohara",
+      "description": "Giám đốc Cục Thanh Tra Hiệp Hội Thám Hiểm. Chịu trách nhiệm giám sát kỹ năng, cấp bậc và tình hình nhóm của các nhà thám hiểm đồng thời duy trì trật tự hiệp hội. Với tư cách là người đứng đầu Cục Thanh Tra, bà có quyền hạn ngang với chủ tịch hiệp hội và có thể đưa ra quyết định cho tất cả các bộ phận của hiệp hội. Bà cũng giám sát việc phân phối 'Quả Kỹ Năng', phân bổ khoảng 1.000 quả hàng năm."
+    },
+    "investigator": {
+      "name": "Mũ Hoa",
+      "cv": "CV. Ai Kakuma",
+      "description": "Giám đốc Cục Nghiên Cứu Hiệp Hội Thám Hiểm. Chịu trách nhiệm nghiên cứu sinh thái, phân bố quái vật và địa hình. Bà sở hữu kỹ năng 'Book Reading', cho phép đọc bất kỳ thông tin nào được viết trên giấy."
+    },
+    "security": {
+      "name": "Râu Hổ",
+      "cv": "CV. Katsuhisa Houki",
+      "description": "Giám đốc Cục An Ninh Hiệp Hội Thám Hiểm. Chịu trách nhiệm duy trì an ninh ở Thánh Thành và các khu vực xung quanh. Tự tin về khả năng chiến đấu và sức mạnh của mình, nổi tiếng với tiếng cười đặc trưng 'Gahaha!'"
+    },
+    "finance": {
+      "name": "Người Giữ Mộ",
+      "cv": "CV. Takehito Koyasu",
+      "description": "Giám đốc Cục Tài Chính Hiệp Hội Thám Hiểm. Quản lý phần thưởng nhiệm vụ và tài chính hiệp hội. Rất nghiêm khắc về quy tắc và quy định, đôi khi áp dụng các biện pháp kỷ luật bằng cách phạt tiền."
+    }
+  }
+}

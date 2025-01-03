@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Crunchyroll",
+      "description": "Crunchyroll ist eine weltweit führende Anime- und Manga-Plattform, die eine umfangreiche Sammlung von Anime-Serien und -Filmen anbietet, einschließlich der neuesten Saisonshows und klassischer Inhalte.",
+      "url": "https://www.crunchyroll.com/"
+    },
+    {
+      "name": "dアニメストア (d Anime Store)",
+      "description": "dアニメストア ist einer der größten Anime-Abonnementdienste Japans und bietet eine Sammlung von über 6000 Anime-Serien und -Filmen, einschließlich der neuesten Saisonshows und Klassiker.",
+      "url": "https://animestore.docomo.ne.jp/animestore/CF/search_index"
+    },
+    {
+      "name": "DMM TV",
+      "description": "DMM TV ist eine Plattform, die eine große Auswahl an Anime, Filmen und TV-Shows anbietet und Benutzern die Möglichkeit bietet, verschiedene Arten von Inhalten zu streamen.",
+      "url": "https://tv.dmm.com/vod/"
+    },
+    {
+      "name": "WOWOW",
+      "description": "WOWOW ist ein japanischer Pay-TV-Dienst, der hochwertige Anime, Filme und TV-Shows anbietet.",
+      "url": "https://www.b-ch.com/"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "description": "Amazon Prime Video bietet eine große Auswahl an Anime, Filmen und TV-Shows und gibt Benutzern über ein Abonnement Zugang zu verschiedenen Arten von Inhalten.",
+      "url": "https://www.amazon.co.jp/gp/video/storefront"
+    },
+    {
+      "name": "FOD (Fuji TV On Demand)",
+      "description": "FOD ist eine von Fuji TV betriebene Online-Video-Plattform, die Anime, TV-Shows und Filme anbietet.",
+      "url": "https://fod.fujitv.co.jp/"
+    }
+]

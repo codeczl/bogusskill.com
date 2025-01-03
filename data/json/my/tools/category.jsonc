@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Maklumat siaran anime rasmi yang disediakan oleh platform ABEMA. Bermula dari 24:00 pada 31 Disember 2024 (Selasa), siaran terestrial dan pratonton eksklusif selama seminggu akan disiarkan."
+    },
+    {
+      "name": "Novel",
+      "src": "novel.jsonc",
+      "link": "novel",
+      "description": "Platform untuk meneroka, membaca, dan menganalisis pelbagai novel. Jejaki kemajuan pembacaan anda dan temui cerita baharu."
+    },
+    {
+      "name": "Manga",
+      "src": "manga.jsonc",
+      "link": "manga",
+      "description": "Koleksi cerita manga, menyediakan alat untuk menjejak dan meneroka keluaran baharu. Dapatkan pandangan tentang siri dan watak kegemaran anda."
+    }
+] 

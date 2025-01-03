@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Anime",
+      "src": "anime.jsonc",
+      "link": "anime",
+      "description": "Offizielle Anime-Ausstrahlungsinformationen von der ABEMA-Plattform. Ab 24:00 Uhr am 31. Dezember 2024 (Dienstag) wird eine einwöchige terrestrische Vorausstrahlung und exklusive Vorschau ausgestrahlt."
+    },
+    {
+      "name": "Novel",
+      "src": "novel.jsonc",
+      "link": "novel",
+      "description": "Eine Plattform zum Erkunden, Lesen und Analysieren verschiedener Romane. Verfolgen Sie Ihren Lesefortschritt und entdecken Sie neue Geschichten."
+    },
+    {
+      "name": "Manga",
+      "src": "manga.jsonc",
+      "link": "manga",
+      "description": "Eine Sammlung von Manga-Geschichten mit Tools zum Verfolgen und Erkunden neuer Veröffentlichungen. Erhalten Sie Einblicke in Ihre Lieblingsserien und -charaktere."
+    }
+] 

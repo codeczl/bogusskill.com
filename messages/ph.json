@@ -1,0 +1,263 @@
+{
+  "home": {
+    "meta_title": "Bogus Skill: Susiha ang Kalibutan sa Fruitmaster Manga & Anime",
+    "meta_description": "Sulod sa makapahinam nga uniberso sa Bogus Skill. Basaha ang manga, tan-awa ang anime, ug apil sa among madasigon nga komunidad!",
+    "h2": "Welcome sa Kalibutan sa Bogus Skill",
+    "description": "『外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～』",
+    "hero": {
+      "title": "PASIUNA",
+      "subtitle": "《Fruitmaster》",
+      "description": "Sa usa ka kalibutan diin ang pagkaon sa \"Bogus Skill Fruits\" naghatag og espesyal nga mga abilidad...",
+      "story_line1": "Usa ka batan-ong adventurer nga ginganlan og Light, nga nagtinguha nga mahimong pinakakusgan...",
+      "story_line2": "Nakadawat og daw walay pulos nga bogus skill nga naghimo sa kahoy nga mga prutas ngadto sa «Fruitmaster».",
+      "story_line3": "Ang \"Bogus Skill Fruits\" kinahanglan kan-on pag-usab aron mapadayon ang ilang gahum.",
+      "story_line4": "Sa laing bahin, ang iyang higala sa pagkabata nga si Ray, nga nagsaad nga \"mahimong adventurer nga magkauban,\"",
+      "story_line5": "Nakaabot sa kinatas-ang S-rank sa kasaysayan, naghimo og dakong gap tali kanila.",
+      "story_line6": "Usa ka adlaw, samtang nagpuyo si Light sa iyang malinawon nga kinabuhi sa uma,",
+      "story_line7": "Wala damha nga nakakaon siya og ikaduhang \"Skill Fruit\"—",
+      "dramatic_text": "\"Nganong wala man ko namatay...!?\"",
+      "reveal_text": "Si Light, nga nakalahutay sa angay unta nga makamatay, nakadiskobre sa tinuod nga gahum sa «Fruitmaster».",
+      "power_text": "Kini ang abilidad sa pagkaon sa \"Bogus Skill Fruits\" nga walay kinutuban!",
+      "cheat_text": "Usa ka hyper-cheat nga nagdugang og mga abilidad sa matag pagkaon!!",
+      "twist_text": "Ang pinakaubos nga bogus skill mao diay ang pinakakusgan!!!",
+      "epic_conclusion": "Ang fantasya sa kalampusan sa usa ka tawo nga gisultihan nga dili mahimong adventurer magsugod na karon...!"
+    },
+    "latest": {
+      "title": "Pinakabag-o nga mga Episode & Kapitulo sa Bogus Skill",
+      "episodes": [
+        {
+          "title": "Episode 1 - Bogus Skill: Fruitmaster",
+          "date": "Gi-release sa Enero 1, 2025",
+          "action": "Tan-awa Karon"
+        },
+        {
+          "title": "Kapitulo 15 - Ang mga Prutas sa Gahum",
+          "date": "Gi-release sa Disyembre 25, 2024",
+          "action": "Basaha ang Manga"
+        },
+        {
+          "title": "Episode 2 - Ang Pagbalik sa Master",
+          "date": "Gi-release sa Enero 8, 2025",
+          "action": "Tan-awa Karon"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Kompendyum sa Bogus Skill",
+      "subtitle": "Nailhan nga mga Epekto sa Bogus Skill",
+      "description": "Niining kalibutan, ang pagkaon sa Bogus Skill Fruits naghatag og lain-laing mga abilidad. Ania ang pipila sa nailhan nga importante nga Bogus skills:",
+      "skills": [
+        {
+          "name": "Fruitmaster",
+          "japanese": "木の実マスター",
+          "description": "Sa sinugdanan giisip nga walay pulos nga Bogus skill sa pagpanguma nga nagpadali sa pagtubo sa prutas ug nagdugang sa ani. Apan, naghatag usab kini sa tag-iya og immunity sa Bogus Skill Fruit toxicity.",
+          "type": "Special"
+        },
+        {
+          "name": "Swordmaster",
+          "japanese": "剣聖",
+          "description": "Nagpadugang og dako sa gahum sa pag-atake sa tag-iya ug naghatag og resistensya sa magic kon naggamit og espada. Kini nga gamhanang combat bogus skill naghatag sa naggamit og dakong bentaha sa away.",
+          "type": "Combat"
+        },
+        {
+          "name": "Appraisal",
+          "japanese": "鑑定",
+          "description": "Nagtugot sa tag-iya nga makakita sa impormasyon bahin sa mga karakteristiko sa target, bogus skills, ug uban pang mga kinaiya. Kini nga bogus skill praktikal kaayo sa away ug sa inadlaw nga kinabuhi.",
+          "type": "Support"
+        },
+        {
+          "name": "Super Refinement",
+          "japanese": "超精錬",
+          "description": "Nagtugot sa tag-iya nga mag-usab sa mga kinaiya sa metal pinaagi sa pagtulto, angay sa paghimo og gamhanang mga hinagiban ug kagamitan. Kini usa ka importante nga bogus skill sa paghimo og legendary-grade nga kagamitan.",
+          "type": "Crafting"
+        },
+        {
+          "name": "Necromancy",
+          "japanese": "死霊操作",
+          "description": "Usa ka gidili nga bogus skill nga nagtugot sa tag-iya sa pagkontrolar sa mga patay o undead nga mga binuhat. Bisan og gamhanan, ang paggamit niini nga bogus skill adunay bug-at nga mental nga palas-anon.",
+          "type": "Forbidden"
+        },
+        {
+          "name": "Book Reading",
+          "japanese": "書物閲覧",
+          "description": "Nagtugot sa tag-iya nga makabasa sa bisan unsang nasulat nga impormasyon, bisan pa sa tinago o gi-encrypt nga sulod. Ilabi na kapuslanan sa pagkolekta og intelligence ug pagbasa sa karaang mga dokumento.",
+          "type": "Support"
+        },
+        {
+          "name": "Healing",
+          "japanese": "治癒",
+          "description": "Naghatag sa tag-iya sa abilidad sa pag-ayo sa mga samad ug sakit, gigamit sa pagsuporta sa mga kauban o kaugalingong pag-ayo. Usa ka importante kaayo nga bogus skill alang sa makuyaw nga mga adventure.",
+          "type": "Recovery"
+        },
+        {
+          "name": "Fire Control",
+          "japanese": "火炎操作",
+          "description": "Nagtugot sa tag-iya sa paghimo ug pagkontrolar sa kalayo alang sa pag-atake o uban pang mga katuyoan. Ang temperatura ug gilay-on sa kalayo mahimong i-adjust base sa kahanas sa naggamit.",
+          "type": "Elemental"
+        },
+        {
+          "name": "Invisibility",
+          "japanese": "隠身",
+          "description": "Nagtugot sa tag-iya nga mahimong dili makita sulod sa usa ka panahon, naglikay sa pagkadiskobre o gigamit sa surprise attacks. Ang gidugayon sa kompleto nga pagkatago nag-agad sa mana reserves sa naggamit.",
+          "type": "Special"
+        }
+      ]
+    },
+    "pv": {
+      "title": "Mga Promotional Video",
+      "subtitle": "Tan-awa ang Opisyal nga PVs",
+      "description": "Sulayi ang magic sa Bogus Skill pinaagi sa among opisyal nga promotional videos!",
+      "pv1": {
+        "title": "Unang PV",
+        "description": "Ang adventure sa usa ka bata nagsugod sa wala damhang prutas..."
+      },
+      "pv2": {
+        "title": "Ikaduhang PV",
+        "description": "Ang tinuod nga gahum sa pinakahuyang skill hapit na momata!"
+      }
+    }
+  },
+  "category": {
+    "meta_title": "Mga Kategorya",
+    "meta_description": "Pangitaa dinhi ang mga kategorya sa resources nga imong gipangita",
+    "homeBtn": "Balay",
+    "categoryBtn": "Mga Kategorya",
+    "h1": "Mga Kategorya sa Resource",
+    "h2": "Pangitaa dinhi ang mga kategorya sa resources nga imong gipangita",
+    "h2description": "Tanang resources gi-han-ay sa alpabetiko"
+  },
+  "article": {
+    "meta_title": "Mga Artikulo",
+    "meta_description": "Basaha ang mga artikulo bahin sa pinakabag-o nga Bogus Skill",
+    "h1": "Mga Artikulo",
+    "h2": "Basaha ang Dugang nga Related nga Artikulo",
+    "homeBtn": "Balay",
+    "articleBtn": "Mga Artikulo",
+    "backToArticles": "Balik sa Lista sa mga Artikulo"
+  },
+  "search": {
+    "input_placeholder": "Pangita pinaagi sa ngalan/tags...",
+    "heading": "Mga Sugyot",
+    "more": "Daghan Pa",
+    "button": "Pangita"
+  },
+  "navigation": {
+    "homeBtn": "Balay",
+    "categoryBtn": "Mga Kategorya",
+    "moreCategoryBtn": "Daghan Pa",
+    "moreCategoryDescription": "Dugang nga mga Kategorya",
+    "articleBtn": "Mga Artikulo",
+    "articleDescription": "Susiha ang Kalibutan sa Bogus Skill Manga & Anime",
+    "article1Title": "Fruitmaster: Usa ka Bag-o nga Gaming Experience",
+    "article2Title": "Bogus Skill Manga: Pagbungkag sa Tradisyonal nga mga Genre",
+    "moreArticleBtn": "Daghan Pa",
+    "moreArticleDescription": "Dugang nga mga artikulo",
+    "changelogBtn": "Changelog"
+  },
+  "footer": {
+    "description": "Diskubriha ang makapahinam nga kalibutan sa Bogus Skill pinaagi sa manga, novels, ug anime",
+    "tagline": "Imong Ultimate Manga & Anime Destinasyon",
+    "quickLinks": "Dali nga mga Link",
+    "home": "Balay",
+    "category": "Mga Kategorya",
+    "article": "Mga Artikulo",
+    "changelog": "Changelog",
+    "privacy": "Polisiya sa Privacy",
+    "termsOfService": "Mga Termino sa Serbisyo",
+    "legal": "Legal nga Pahibalo",
+    "connect": "Kontaka Kami",
+    "support": "Suporta",
+    "copyright": "Tanang katungod gitagana."
+  },
+  "characters": {
+    "title": "Mga Karakter",
+    "light": {
+      "name": "Light",
+      "cv": "CV. Takuma Nagatsuka",
+      "description": "Usa ka batan-ong lalaki nga nagdamgo nga mahimong adventurer sukad sa pagkabata. Nakadawat siya sa 'Fruitmaster' bogus skill, nga giisip nga walay pulos sa away, ug nagsalig sa pagbaligya og prutas isip mag-uuma. Bisan pa niini, padayon siya sa pagbansay sa espada. Sa sinugdanan nasagmuyo siya niining skill nga nagpadali lang sa pagtubo sa prutas ug nagdugang sa ani, apan wala damha nga nakakaon siya og ikaduhang 'Skill Fruit' ug nakadiskobre nga makakuha siya og dugang nga mga abilidad ug resistance sa hilo—usa ka cheat-level nga bentaha."
+    },
+    "lena": {
+      "name": "Lena",
+      "cv": "CV. Lynn",
+      "description": "Usa ka babaye nga adunay 'Swordmaster' bogus skill, nga nagpadugang sa iyang gahum sa pag-atake ug resistensya sa magic kon naggamit og espada. Nagsaad siya sa iyang higala sa pagkabata nga si Light nga mahimong adventurer nga magkauban apan gidala sa Holy City human maila isip prodigy nga moabot lang kausa sa usa ka dekada. Malipayon ug malumo og kasingkasing, nagpakita og talagsaong talento pinaagi sa pagkahimong S-rank adventurer nga mas paspas kaysa bisan kinsa sa kasaysayan. Bisan og miyembro siya sa S-rank party nga 'Sacred,' aduna siyay mga pagduhaduha sa ilang mga pamaagi ug atmospera."
+    },
+    "ayla": {
+      "name": "Ayla",
+      "cv": "CV. Kazuki Mikawa",
+      "description": "Usa ka batan-ong babaye nga gitugyan sa pag-atiman ni Light sa village chief. Bisan og nagpuyo sa kakabus, wala siya nagmulo ug makugihon nga nagtrabaho, nakigbahin sa inadlaw nga mga responsibilidad kauban ni Light. Human aksidente nga nakakaon og 'Skill Fruit,' nakakuha siya sa 'Appraisal' skill, nga nagtugot kaniya sa pag-ila sa mga karakteristiko ug abilidad sa mga butang."
+    },
+    "monica": {
+      "name": "Monica",
+      "cv": "CV. Hana Tamagai",
+      "description": "Usa ka bogusskilled nga panday nga inila isip legendary craftsman. Aduna siyay 'Super Refinement' bogus skill, nga nagtugot kaniya sa pag-usab sa mga kinaiya sa metal pinaagi sa pagtulto sumala sa iyang gusto. Tungod sa usa ka insidente, mihunong siya sa paghimo og mga espada."
+    },
+    "dratena": {
+      "name": "Dratena",
+      "cv": "CV. Akira Sekine",
+      "description": "Usa ka misteryosong babaye nga sakop sa 'Black Swan' party. Naggamit siya sa gidili nga 'Necromancy' bogus skill, nga nagtugot kaniya sa pagkontrolar sa mga patay ug undead nga mga binuhat sumala sa iyang gusto."
+    },
+    "inspector": {
+      "name": "Holy Maiden",
+      "cv": "CV. Sayaka Ohara",
+      "description": "Ang direktor sa Adventurers' Guild Inspection Bureau. Responsable sa pagdumala sa mga bogus skill sa mga adventurer, mga ranggo, ug sitwasyon sa team samtang nagmentinar sa kahusay sa guild. Isip pangulo sa Inspection Bureau, aduna siyay awtoridad nga parehas sa guild president ug makahimo og mga desisyon alang sa tanang departamento sa guild. Gidumala usab niya ang pagpanghatag sa 'Skill Fruits,' nga nagahin og mga 1,000 kada tuig."
+    },
+    "investigator": {
+      "name": "Flower Hat",
+      "cv": "CV. Ai Kakuma",
+      "description": "Ang direktor sa Adventurers' Guild Research Bureau. Responsable sa pagtuon sa ekolohiya sa monster, distribusyon, ug terrain. Aduna siyay 'Book Reading' skill, nga nagtugot kaniya sa pagbasa sa bisan unsang impormasyon nga nasulat sa papel."
+    },
+    "security": {
+      "name": "Tiger Beard",
+      "cv": "CV. Katsuhisa Houki",
+      "description": "Ang direktor sa Adventurers' Guild Security Bureau. Responsable sa pagmentinar sa seguridad sa Holy City ug sa palibot niini. Masaligon sa iyang mga abilidad sa away ug kusog, nailhan sa iyang talagsaong katawa nga 'Gahaha!'"
+    },
+    "finance": {
+      "name": "Grave Keeper",
+      "cv": "CV. Takehito Koyasu",
+      "description": "Ang direktor sa Adventurers' Guild Finance Bureau. Nagdumala sa mga ganti sa quest ug panalapi sa guild. Istrikto kaayo sa mga lagda ug regulasyon, usahay nagpahamtang og mga multa isip disiplinaryo nga lakang."
+    }
+  },
+  "anime": {
+    "title": "Anime nga Announcement",
+    "broadcast": {
+      "title": "Impormasyon sa Pagpasalida",
+      "date": "Ipasalida sugod sa Enero 2025",
+      "description": "Ang anime adaptation sa \"Bogus Skill: Fruitmaster\" (Hazure Skill 'Kinomi Master' Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite) nakumpirma nga sugdan na ang pagpasalida sa Enero 2025.",
+      "origin": "Orihinal gikan sa novel posting site nga \"Shousetsuka ni Narou,\" kini nga obra nagsaysay sa fantasya sa kalampusan sa usa ka bata nga nagtinguha nga mahimong pinakadako nga adventurer sa kasaysayan."
+    },
+    "announcement": {
+      "title": "Pinakabag-o nga mga Announcement",
+      "visual": "Key visual girelease na",
+      "pv": "Teaser PV anaa na",
+      "cast": "Main cast gipahibalo na"
+    },
+    "production": {
+      "studio": "Giproduce sa K Ranobe Books",
+      "staff": "Impormasyon sa Staff & Cast"
+    },
+    "cast": {
+      "title": "Voice Cast",
+      "light": "Light - Takuma Nagatsuka",
+      "lena": "Lena - Lynn",
+      "ayla": "Ayla - Kazuki Mikawa",
+      "monica": "Monica - Hana Shugibe",
+      "dratena": "Dratena - Akari Sekine"
+    }
+  },
+  "changelog": {
+    "meta_title": "Changelog",
+    "meta_description": "Hibaloi ang pinakabag-o nga mga update",
+    "h1": "Changelog",
+    "h2": "Hibaloi ang pinakabag-o nga mga update",
+    "homeBtn": "Balay",
+    "changelogBtn": "Changelog"
+  },
+  "articleList": {
+    "h2": "Mga Artikulo",
+    "moreArticles": "Dugang nga mga Artikulo"
+  },
+  "toolsList": {
+    "more": "Daghan Pa",
+    "tools": ""
+  }
+}

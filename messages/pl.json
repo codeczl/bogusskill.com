@@ -1,0 +1,263 @@
+{
+  "home": {
+    "meta_title": "Bogus Skill: Odkryj Świat Mangi i Anime Fruitmaster",
+    "meta_description": "Zanurz się w fascynującym świecie Bogus Skill. Czytaj mangę, oglądaj anime i dołącz do naszej pasjonującej społeczności!",
+    "h2": "Witaj w Świecie Bogus Skill",
+    "description": "『外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～』",
+    "hero": {
+      "title": "WPROWADZENIE",
+      "subtitle": "《Fruitmaster》",
+      "description": "W świecie, gdzie spożywanie \"Owoców Umiejętności Bogus\" nadaje specjalne zdolności...",
+      "story_line1": "Młody poszukiwacz przygód o imieniu Light, dążący do zostania najsilniejszym, otrzymał...",
+      "story_line2": "Pozornie bezużyteczną umiejętność bogus, która zamieniła owoce drzew w «Fruitmaster».",
+      "story_line3": "\"Owoce Umiejętności Bogus\" muszą być spożywane ponownie, aby utrzymać ich moc, co czyni je niezastąpionymi.",
+      "story_line4": "Tymczasem jego przyjaciel z dzieciństwa Ray, który obiecał \"zostać poszukiwaczem przygód razem,\"",
+      "story_line5": "Osiągnął najwyższą rangę S w historii, tworząc między nimi ogromną przepaść.",
+      "story_line6": "Pewnego dnia, gdy Light wiedzie swoje spokojne życie rolnika,",
+      "story_line7": "Przypadkowo spożywa drugi \"Owoc Umiejętności\"—",
+      "dramatic_text": "\"Dlaczego nie umarłem...!?\"",
+      "reveal_text": "Light, który przeżył to, co powinno być śmiertelne, odkrywa prawdziwą moc «Fruitmaster».",
+      "power_text": "To była zdolność do nieskończonego jedzenia \"Owoców Umiejętności Bogus\"!",
+      "cheat_text": "Hiper-oszustwo, które dodaje umiejętności z każdym spożyciem!!",
+      "twist_text": "Najniżej oceniana umiejętność bogus okazała się najsilniejsza!!!",
+      "epic_conclusion": "Fantazja o sukcesie człowieka, któremu powiedziano, że nie może zostać poszukiwaczem przygód, zaczyna się teraz...!"
+    },
+    "latest": {
+      "title": "Najnowsze Odcinki i Rozdziały Bogus Skill",
+      "episodes": [
+        {
+          "title": "Odcinek 1 - Bogus Skill: Fruitmaster",
+          "date": "Premiera 1 stycznia 2025",
+          "action": "Oglądaj Teraz"
+        },
+        {
+          "title": "Rozdział 15 - Owoce Mocy",
+          "date": "Wydano 25 grudnia 2024",
+          "action": "Czytaj Mangę"
+        },
+        {
+          "title": "Odcinek 2 - Powrót Mistrza",
+          "date": "Premiera 8 stycznia 2025",
+          "action": "Oglądaj Teraz"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Kompendium Umiejętności Bogus",
+      "subtitle": "Znane Efekty Umiejętności Bogus",
+      "description": "W tym świecie, spożywanie Owoców Umiejętności Bogus nadaje różne unikalne zdolności. Oto niektóre ze znanych ważnych umiejętności Bogus:",
+      "skills": [
+        {
+          "name": "Fruitmaster",
+          "japanese": "木の実マスター",
+          "description": "Początkowo uważana za bezużyteczną umiejętność rolniczą Bogus, która przyspiesza wzrost owoców i zwiększa plony. Jednak daje ona również posiadaczowi odporność na toksyczność Owoców Umiejętności Bogus, pozwalając bezpiecznie spożywać wiele Owoców Umiejętności Bogus i zdobywać wiele zdolności.",
+          "type": "Specjalna"
+        },
+        {
+          "name": "Swordmaster",
+          "japanese": "剣聖",
+          "description": "Znacznie zwiększa siłę ataku posiadacza i zapewnia odporność na magię podczas władania mieczem. Ta potężna umiejętność bojowa bogus daje użytkownikowi znaczną przewagę w walce.",
+          "type": "Walka"
+        },
+        {
+          "name": "Appraisal",
+          "japanese": "鑑定",
+          "description": "Pozwala posiadaczowi zobaczyć informacje o charakterystyce celu, umiejętnościach bogus i innych atrybutach, zapewniając wgląd w możliwości zarówno sojuszników, jak i wrogów. Ta umiejętność bogus jest wysoce praktyczna zarówno w walce, jak i w życiu codziennym.",
+          "type": "Wsparcie"
+        },
+        {
+          "name": "Super Refinement",
+          "japanese": "超精錬",
+          "description": "Umożliwia posiadaczowi kucie metali o pożądanych właściwościach poprzez wykuwanie, odpowiednie do tworzenia potężnej broni i wyposażenia. Jest to kluczowa umiejętność bogus do tworzenia wyposażenia klasy legendarnej.",
+          "type": "Rzemiosło"
+        },
+        {
+          "name": "Necromancy",
+          "japanese": "死霊操作",
+          "description": "Zakazana umiejętność bogus, która pozwala posiadaczowi kontrolować martwe lub nieumarłe stworzenia. Choć potężna, korzystanie z tej umiejętności bogus wiąże się z ciężkim obciążeniem psychicznym.",
+          "type": "Zakazana"
+        },
+        {
+          "name": "Book Reading",
+          "japanese": "書物閲覧",
+          "description": "Umożliwia posiadaczowi przeglądanie wszelkich pisemnych informacji, nawet ukrytych lub zaszyfrowanych treści. Szczególnie przydatna do zbierania informacji i odszyfrowywania starożytnych dokumentów.",
+          "type": "Wsparcie"
+        },
+        {
+          "name": "Healing",
+          "japanese": "治癒",
+          "description": "Daje posiadaczowi zdolność leczenia ran i chorób, używaną do wspierania sojuszników lub samoleczenia. Niezbędna umiejętność bogus do niebezpiecznych przygód.",
+          "type": "Leczenie"
+        },
+        {
+          "name": "Fire Control",
+          "japanese": "火炎操作",
+          "description": "Pozwala posiadaczowi generować i kontrolować ogień do ataków lub innych celów. Temperatura i zasięg płomieni mogą być dostosowywane w zależności od biegłości użytkownika.",
+          "type": "Żywiołowa"
+        },
+        {
+          "name": "Invisibility",
+          "japanese": "隠身",
+          "description": "Umożliwia posiadaczowi stanie się niewidzialnym przez określony czas, unikając wykrycia lub używane do ataków z zaskoczenia. Czas trwania całkowitej niewidzialności zależy od rezerw many użytkownika.",
+          "type": "Specjalna"
+        }
+      ]
+    },
+    "pv": {
+      "title": "Filmy Promocyjne",
+      "subtitle": "Zobacz Oficjalne PV",
+      "description": "Doświadcz magii Bogus Skill poprzez nasze oficjalne filmy promocyjne!",
+      "pv1": {
+        "title": "Pierwsze PV",
+        "description": "Przygoda chłopca zaczyna się od nieoczekiwanego owocu..."
+      },
+      "pv2": {
+        "title": "Drugie PV",
+        "description": "Prawdziwa moc najsłabszej umiejętności wkrótce się przebudzi!"
+      }
+    },
+    "anime": {
+      "title": "Ogłoszenie Anime",
+      "broadcast": {
+        "title": "Informacje o Emisji",
+        "date": "Emisja od stycznia 2025",
+        "description": "Adaptacja anime \"Bogus Skill: Fruitmaster\" (Hazure Skill 'Kinomi Master' Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite) została potwierdzona i rozpocznie się w styczniu 2025.",
+        "origin": "Pierwotnie z portalu powieści internetowych \"Shousetsuka ni Narou\", to dzieło opowiada fantazję o sukcesie chłopca dążącego do zostania największym poszukiwaczem przygód w historii."
+      },
+      "announcement": {
+        "title": "Najnowsze Ogłoszenia",
+        "visual": "Opublikowano główną grafikę",
+        "pv": "Dostępny zwiastun PV",
+        "cast": "Ujawniono główną obsadę"
+      },
+      "production": {
+        "studio": "Wyprodukowane przez K Ranobe Books",
+        "staff": "Informacje o Personelu i Obsadzie"
+      },
+      "cast": {
+        "title": "Obsada Głosowa",
+        "light": "Light - Takuma Nagatsuka",
+        "lena": "Lena - Lynn",
+        "ayla": "Ayla - Kazuki Mikawa",
+        "monica": "Monica - Hana Shugibe",
+        "dratena": "Dratena - Akari Sekine"
+      }
+    }
+  },
+  "category": {
+    "meta_title": "Kategorie",
+    "meta_description": "Znajdź tutaj interesujące Cię kategorie zasobów",
+    "homeBtn": "Strona Główna",
+    "categoryBtn": "Kategorie",
+    "h1": "Kategorie Zasobów",
+    "h2": "Znajdź tutaj interesujące Cię kategorie zasobów",
+    "h2description": "Wszystkie zasoby posortowane alfabetycznie"
+  },
+  "article": {
+    "meta_title": "Artykuły",
+    "meta_description": "Czytaj artykuły o najnowszych Bogus Skill",
+    "h1": "Artykuły",
+    "h2": "Przeczytaj Więcej Powiązanych Artykułów",
+    "homeBtn": "Strona Główna",
+    "articleBtn": "Artykuły",
+    "backToArticles": "Powrót do Listy Artykułów"
+  },
+  "changelog": {
+    "meta_title": "Dziennik Zmian",
+    "meta_description": "Dowiedz się o najnowszych aktualizacjach",
+    "h1": "Dziennik Zmian",
+    "h2": "Dowiedz się o najnowszych aktualizacjach",
+    "homeBtn": "Strona Główna",
+    "changelogBtn": "Dziennik Zmian"
+  },
+  "search": {
+    "input_placeholder": "Szukaj po nazwie/tagach...",
+    "heading": "Sugestie",
+    "more": "Więcej",
+    "button": "Szukaj"
+  },
+  "navigation": {
+    "homeBtn": "Strona Główna",
+    "categoryBtn": "Kategorie",
+    "moreCategoryBtn": "Więcej",
+    "moreCategoryDescription": "Więcej Kategorii",
+    "articleBtn": "Artykuły",
+    "articleDescription": "Odkryj Świat Mangi i Anime Bogus Skill",
+    "article1Title": "Fruitmaster: Nowe Doświadczenie w Grach",
+    "article2Title": "Manga Bogus Skill: Przełamywanie Tradycyjnych Gatunków",
+    "moreArticleBtn": "Więcej",
+    "moreArticleDescription": "Więcej artykułów",
+    "changelogBtn": "Dziennik Zmian"
+  },
+  "toolsList": {
+    "more": "Więcej",
+    "tools": ""
+  },
+  "footer": {
+    "description": "Odkryj fascynujący świat Bogus Skill poprzez mangę, powieści i anime",
+    "tagline": "Twoje Ostateczne Miejsce Docelowe dla Mangi i Anime",
+    "quickLinks": "Szybkie Linki",
+    "home": "Strona Główna",
+    "category": "Kategorie",
+    "article": "Artykuły",
+    "changelog": "Dziennik Zmian",
+    "privacy": "Polityka Prywatności",
+    "termsOfService": "Warunki Użytkowania",
+    "legal": "Nota Prawna",
+    "connect": "Kontakt",
+    "support": "Wsparcie",
+    "copyright": "Wszelkie prawa zastrzeżone."
+  },
+  "articleList": {
+    "h2": "Artykuły",
+    "moreArticles": "Więcej Artykułów"
+  },
+  "characters": {
+    "title": "Postacie",
+    "light": {
+      "name": "Light",
+      "cv": "CV. Takuma Nagatsuka",
+      "description": "Młody chłopiec, który od dzieciństwa marzył o zostaniu poszukiwaczem przygód. Otrzymał umiejętność bogus 'Fruitmaster', uważaną za bezużyteczną w walce, i zarabia na życie jako rolnik sprzedający owoce. Mimo to wytrwale kontynuuje trening miecza. Początkowo rozczarowany tą umiejętnością, która tylko przyspiesza wzrost owoców i zwiększa plony, przypadkowo spożywa drugi 'Owoc Umiejętności' i odkrywa, że może zyskać dodatkowe zdolności i odporność na trucizny — przewagę na poziomie oszustwa."
+    },
+    "lena": {
+      "name": "Lena",
+      "cv": "CV. Lynn",
+      "description": "Dziewczyna posiadająca umiejętność bogus 'Swordmaster', która znacznie zwiększa jej siłę ataku i odporność na magię podczas władania mieczem. Obiecała swojemu przyjacielowi z dzieciństwa Light'owi, że zostaną razem poszukiwaczami przygód, ale została zabrana do Świętego Miasta po tym, jak rozpoznano w niej geniusza pojawiającego się raz na dekadę. Jest radosna i ciepła, wykazując niezwykły talent poprzez zostanie poszukiwaczem przygód rangi S szybciej niż ktokolwiek w historii. Choć jest członkiem drużyny rangi S 'Sacred', ma wątpliwości co do ich metod i atmosfery."
+    },
+    "ayla": {
+      "name": "Ayla",
+      "cv": "CV. Kazuki Mikawa",
+      "description": "Młoda dziewczyna powierzona opiece Light'a przez wodza wioski. Mimo życia w ubóstwie, nigdy nie narzeka i pracuje pilnie, dzieląc codzienne obowiązki z Light'em. Po przypadkowym spożyciu 'Owocu Umiejętności' zyskała umiejętność 'Appraisal', pozwalającą jej identyfikować charakterystyki i zdolności przedmiotów."
+    },
+    "monica": {
+      "name": "Monica",
+      "cv": "CV. Hana Tamagai",
+      "description": "Kowalka bogus znana jako legendarny rzemieślnik. Posiada umiejętność bogus 'Super Refinement', pozwalającą jej zmieniać właściwości metali poprzez kucie według woli. Z powodu pewnego incydentu przestała wykuwać miecze."
+    },
+    "dratena": {
+      "name": "Dratena",
+      "cv": "CV. Akira Sekine",
+      "description": "Tajemnicza dziewczyna należąca do drużyny 'Black Swan'. Włada zakazaną umiejętnością bogus 'Necromancy', pozwalającą jej kontrolować martwe i nieumarłe stworzenia według woli."
+    },
+    "inspector": {
+      "name": "Święta Dziewica",
+      "cv": "CV. Sayaka Ohara",
+      "description": "Dyrektor Biura Inspekcji Gildii Poszukiwaczy Przygód. Odpowiedzialna za nadzorowanie umiejętności bogus poszukiwaczy przygód, rang i sytuacji drużyn, jednocześnie utrzymując porządek w gildii. Jako szef Biura Inspekcji posiada władzę równą prezydentowi gildii i może podejmować decyzje dla wszystkich departamentów gildii. Nadzoruje również dystrybucję 'Owoców Umiejętności', przydzielając około 1000 rocznie."
+    },
+    "investigator": {
+      "name": "Kwiatowy Kapelusz",
+      "cv": "CV. Ai Kakuma",
+      "description": "Dyrektor Biura Badań Gildii Poszukiwaczy Przygód. Odpowiedzialna za badanie ekologii potworów, ich rozmieszczenia i terenu. Posiada umiejętność 'Book Reading', pozwalającą jej czytać wszelkie informacje zapisane na papierze."
+    },
+    "security": {
+      "name": "Tygrysią Broda",
+      "cv": "CV. Katsuhisa Houki",
+      "description": "Dyrektor Biura Bezpieczeństwa Gildii Poszukiwaczy Przygód. Odpowiedzialny za utrzymanie bezpieczeństwa w Świętym Mieście i okolicznych obszarach. Pewny swoich umiejętności bojowych i siły, znany ze swojego charakterystycznego śmiechu 'Gahaha!'"
+    },
+    "finance": {
+      "name": "Strażnik Grobów",
+      "cv": "CV. Takehito Koyasu",
+      "description": "Dyrektor Biura Finansów Gildii Poszukiwaczy Przygód. Zarządza nagrodami za zadania i finansami gildii. Bardzo surowy w kwestii zasad i przepisów, czasami nakłada grzywny jako środki dyscyplinarne."
+    }
+  }
+}
