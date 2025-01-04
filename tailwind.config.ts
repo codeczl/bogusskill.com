@@ -1,57 +1,5 @@
 import type { Config } from "tailwindcss"
 
-export const lightVariables = {
-  colors: {
-    border: "#e2e8f0",
-    input: "#e2e8f0",
-    ring: "#6a66c4",
-    background: "#ffffff",
-    foreground: "#020817",
-    primary: "#6a66c4",
-    "primary-foreground": "#ffffff",
-    secondary: "#f1f5f9",
-    "secondary-foreground": "#0f172a",
-    destructive: "#ef4444",
-    "destructive-foreground": "#ffffff",
-    success: "#39a561",
-    "success-foreground": "#ffffff",
-    muted: "#f8fafc",
-    "muted-foreground": "#64748b",
-    accent: "#f1f5f9",
-    "accent-foreground": "#0f172a",
-    popover: "#ffffff",
-    "popover-foreground": "#020817",
-    card: "#ffffff",
-    "card-foreground": "#020817",
-  },
-};
-
-export const darkVariables = {
-  colors: {
-    border: "#2f3e57",
-    input: "#1e293b",
-    ring: "#837fdf",
-    background: "#121924",
-    foreground: "#f8fafc",
-    primary: "#837fdf",
-    "primary-foreground": "#111",
-    secondary: "#1e293b",
-    "secondary-foreground": "#f8fafc",
-    destructive: "#ef4444",
-    "destructive-foreground": "#ffffff",
-    success: "#39a561",
-    "success-foreground": "#f8fafc",
-    muted: "#020817",
-    "muted-foreground": "#94a3b8",
-    accent: "#1e293b",
-    "accent-foreground": "#f8fafc",
-    popover: "#121924",
-    "popover-foreground": "#f8fafc",
-    card: "#121924",
-    "card-foreground": "#f8fafc",
-  },
-};
-
 const config = {
   darkMode: ["class"],
   content: [
@@ -59,7 +7,7 @@ const config = {
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-	],
+  ],
   prefix: "",
   theme: {
     container: {
@@ -105,40 +53,19 @@ const config = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
-      fontFamily: {
-        sans: ["var(--font-sans)", "sans-serif"],
-      },
-      borderRadius: {
-        lg: "var(--radius)",
-        md: "calc(var(--radius) - 2px)",
-        sm: "calc(var(--radius) - 4px)",
-      },
-      keyframes: {
-        "accordion-down": {
-          from: { height: "0" },
-          to: { height: "var(--radix-accordion-content-height)" },
-        },
-        "accordion-up": {
-          from: { height: "var(--radix-accordion-content-height)" },
-          to: { height: "0" },
-        },
-      },
-      animation: {
-        "accordion-down": "accordion-down 0.2s ease-out",
-        "accordion-up": "accordion-up 0.2s ease-out",
-      },
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(circle at center, var(--tw-gradient-stops))',
+        'mystical': 'linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.05) 50%, rgba(0, 0, 0, 0.1) 100%)',
       },
-    },
-    variables: {
-      DEFAULT: lightVariables,
-    },
-    darkVariables: {
-      DEFAULT: darkVariables,
+      borderColor: {
+        'white-10': 'rgba(255, 255, 255, 0.1)',
+        'white-20': 'rgba(255, 255, 255, 0.2)',
+      },
+      textColor: {
+        'white-60': 'rgba(255, 255, 255, 0.6)',
+      },
     },
   },
-  plugins: [require("tailwindcss-animate"),require('@tailwindcss/typography')],
+  plugins: [require("tailwindcss-animate")],
 } satisfies Config
 
 export default config

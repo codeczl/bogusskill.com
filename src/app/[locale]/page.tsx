@@ -6,8 +6,8 @@ import { getCategories, getDataList } from '@/lib/data';
 import { ToolsList } from '@/components/ToolsList';
 import { ArticleList } from '@/components/ArticleList'
 import { CharacterGallery } from '@/components/CharacterGallery'
+import {getTranslations, getLocale} from 'next-intl/server'
 
-import {getTranslations, getLocale} from 'next-intl/server';
 export async function generateMetadata() {
   const t = await getTranslations('home');
   return {
@@ -353,7 +353,6 @@ export default async function Home() {
           </div>
         </div>
       </section>
-
     </div>
   )
 }

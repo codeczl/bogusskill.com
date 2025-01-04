@@ -14,6 +14,7 @@ import { cn } from "@/lib/utils";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { appConfig } from '@/lib/appConfig'
+import AdsBanner from '@/components/AdsBanner'
 
 const inter = Inter({ subsets: ['latin'] })
 const sansFont = DM_Sans({
@@ -54,27 +55,30 @@ export default async function RootLayout({
   const messages = await getMessages();
 
   return (
-    <>
-      <html lang={locale} suppressHydrationWarning>
-        <head>
-          <meta name="google-adsense-account" content="ca-pub-8919061004428483" />
-          <link rel="icon" href={appConfig.siteImage.favicon} />
-        </head>
-        <body className={cn(inter.className, sansFont.variable)}>
-          <NextIntlClientProvider messages={messages}>
-            <ThemeProvider 
-              attribute="class"
-              defaultTheme="dark"
-              enableSystem={false}
-            >
-              <Layout>{children}</Layout>
-              <GoogleAdsenseScript />
-              <GoogleAnalyticsScript />
-              <PlausibleAnalyticsScript />
-            </ThemeProvider>
-          </NextIntlClientProvider>
-        </body>
-      </html>
-    </>
+    <html lang={locale} suppressHydrationWarning>
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-8919061004428483" />
+        <link rel="icon" href={appConfig.siteImage.favicon} />
+      </head>
+      <body className={cn(inter.className, sansFont.variable)}>
+        <NextIntlClientProvider messages={messages}>
+          <ThemeProvider 
+            attribute="class"
+            defaultTheme="dark"
+            enableSystem={false}
+          >
+            <Layout>
+              {children}
+              <div className="container mx-auto">
+                <AdsBanner />
+              </div>
+            </Layout>
+            <GoogleAdsenseScript />
+            <GoogleAnalyticsScript />
+            <PlausibleAnalyticsScript />
+          </ThemeProvider>
+        </NextIntlClientProvider>
+      </body>
+    </html>
   )
 }
