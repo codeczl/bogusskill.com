@@ -259,5 +259,10 @@
   "articleList": {
     "h2": "Artikel",
     "moreArticles": "Artikel Lainnya"
+  },
+  "episode": {
+    "title": "Video Anime Terbaru",
+    "subtitle": "Seri Animasi Bogus Skill",
+    "description": "Bergabunglah dengan sesama penggemar secara online untuk menonton video yang kita semua tunggu-tunggu!"
   }
 }

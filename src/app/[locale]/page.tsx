@@ -46,6 +46,7 @@ type Product = {
 export default async function Home() {
   const locale = await getLocale();
   const t = await getTranslations('home');
+  const episodeT = await getTranslations('episode');
   const categories = getCategories(locale);
   console.log('categories: ', categories)
 
@@ -240,6 +241,36 @@ export default async function Home() {
   </div>
 </div>
 </section>
+
+      {/* First Episode Section */}
+      <section className="space-y-8 text-center p-8 mystical-bg rounded-lg relative overflow-hidden backdrop-blur-sm">
+        <div className="relative z-10">
+          <h2 className="text-5xl font-bold tracking-tight static-title mb-6">
+            {episodeT("title")}
+          </h2>
+          <h3 className="text-3xl font-semibold anime-subtitle mb-6">
+            {episodeT("subtitle")}
+          </h3>
+          <p className="text-xl md:text-2xl tracking-tight anime-text mb-8 max-w-3xl mx-auto">
+            {episodeT("description")}
+          </p>
+          
+          <div className="max-w-4xl mx-auto bg-white/5 backdrop-blur p-6 rounded-lg border-2 border-dashed border-white/20 hover:border-white/40 transition-all duration-300 shadow-xl">
+            <div className="aspect-video w-full relative">
+              <iframe 
+                className="w-full h-full rounded-lg border-4 border-white/10"
+                src="https://www.youtube.com/embed/2MQl9XIwO6I?si=A7G6-UMAmBpkS0vJ" 
+                title="YouTube video player" 
+                frameBorder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerPolicy="strict-origin-when-cross-origin" 
+                allowFullScreen
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Categories Section */}
       {categories.map((category: categoryType, index: React.Key | null | undefined) => (
         <section key={index} className="space-y-8 text-center p-8 mystical-bg rounded-lg relative overflow-hidden backdrop-blur-sm">

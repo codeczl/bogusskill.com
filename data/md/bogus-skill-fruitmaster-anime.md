@@ -9,7 +9,7 @@ lastModified: "2025-01-02T18:00:00Z"
 
 If you think you’ve seen everything in anime, think again. Enter the world of **Bogus Skill Fruitmaster Anime**, where fruit isn't just for eating; it's for power. Imagine characters who wield fruit-based abilities in a world that's both bizarre and hilarious. But what exactly is this anime all about, and why should you care?
 
-![Bogus Skill Fruitmaster Anime](https://example.com/pic/bogus-skill-fruitmaster-anime.png "Fruit powers that will blow your mind")
+![Bogus Skill Fruitmaster Anime](/pic/bogus-skill-fruitmaster-anime.png "Fruit powers that will blow your mind")
 
 ## The Story Behind the Fruit Powers
 

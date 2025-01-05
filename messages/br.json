@@ -144,6 +144,11 @@
       }
     }
   },
+  "episode": {
+    "title": "Vídeo de Anime Mais Recente",
+    "subtitle": "Série de Animação Bogus Skill",
+    "description": "Junte-se aos fãs online para assistir ao vídeo que todos estávamos esperando!"
+  },
   "category": {
     "meta_title": "Categorias",
     "meta_description": "Encontre as categorias de recursos que você procura aqui",

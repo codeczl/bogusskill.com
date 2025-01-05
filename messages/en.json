@@ -145,6 +145,11 @@
       }
     }
   },
+  "episode": {
+    "title": "Latest Anime Video",
+    "subtitle": "Bogus Skill Animation Series",
+    "description": "Join fellow fans online to watch the video we've all been waiting for!"
+  },
   "category": {
     "meta_title": "Categories",
     "meta_description": "Find the resource categories you're looking for here",

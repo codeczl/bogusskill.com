@@ -143,6 +143,7 @@
         "dratena": "Dratena - Akari Sekine"
       }
     }
+    
   },
   "category": {
     "meta_title": "Kategorien",
@@ -153,6 +154,11 @@
     "h2": "Finden Sie hier die gesuchten Ressourcenkategorien",
     "h2description": "Alle Ressourcen alphabetisch sortiert"
   },
+  "episode": {
+      "title": "Neuestes Anime-Video",
+      "subtitle": "Bogus Skill Animations-Serie",
+      "description": "Schließe dich anderen Fans online an, um das Video zu sehen, auf das wir alle gewartet haben!"
+    },
   "article": {
     "meta_title": "Artikel",
     "meta_description": "Lesen Sie Artikel über das neueste Bogus Skill",
