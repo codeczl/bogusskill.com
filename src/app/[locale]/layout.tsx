@@ -58,6 +58,7 @@ export default async function RootLayout({
       <head>
         <meta name="google-adsense-account" content="ca-pub-8919061004428483" />
         <link rel="icon" href={appConfig.siteImage.favicon} />
+        <GoogleAdsenseScript />
       </head>
       <body className={cn(inter.className, sansFont.variable)}>
         <NextIntlClientProvider messages={messages}>
@@ -69,7 +70,6 @@ export default async function RootLayout({
             <Layout>
               {children}
             </Layout>
-            <GoogleAdsenseScript />
             <GoogleAnalyticsScript />
             <PlausibleAnalyticsScript />
           </ThemeProvider>
