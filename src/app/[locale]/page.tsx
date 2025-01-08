@@ -255,17 +255,35 @@ export default async function Home() {
             {episodeT("description")}
           </p>
           
-          <div className="max-w-4xl mx-auto bg-white/5 backdrop-blur p-6 rounded-lg border-2 border-dashed border-white/20 hover:border-white/40 transition-all duration-300 shadow-xl">
-            <div className="aspect-video w-full relative">
-              <iframe 
-                className="w-full h-full rounded-lg border-4 border-white/10"
-                src="https://www.youtube.com/embed/2MQl9XIwO6I?si=A7G6-UMAmBpkS0vJ" 
-                title="YouTube video player" 
-                frameBorder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                referrerPolicy="strict-origin-when-cross-origin" 
-                allowFullScreen
-              ></iframe>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
+            {/* 第一集 */}
+            <div className="bg-white/5 backdrop-blur p-6 rounded-lg border-2 border-dashed border-white/20 hover:border-white/40 transition-all duration-300 shadow-xl">
+              <div className="aspect-video w-full relative">
+                <iframe 
+                  className="w-full h-full rounded-lg border-4 border-white/10"
+                  src="https://www.youtube.com/embed/NMbKJTl1b6U?si=fcQP_a_sFcLgaUFX" 
+                  title="YouTube video player" 
+                  frameBorder="0" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  referrerPolicy="strict-origin-when-cross-origin" 
+                  allowFullScreen
+                ></iframe>
+              </div>
+            </div>
+
+            {/* 第二集 */}
+            <div className="bg-white/5 backdrop-blur p-6 rounded-lg border-2 border-dashed border-white/20 hover:border-white/40 transition-all duration-300 shadow-xl">
+              <div className="aspect-video w-full relative">
+                <iframe 
+                  className="w-full h-full rounded-lg border-4 border-white/10"
+                  src="https://www.youtube.com/embed/nbj013wSFD4?si=nw_UjQjqFKnn9XUW" 
+                  title="YouTube video player" 
+                  frameBorder="0" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  referrerPolicy="strict-origin-when-cross-origin" 
+                  allowFullScreen
+                ></iframe>
+              </div>
             </div>
           </div>
         </div>
