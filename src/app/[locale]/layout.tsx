@@ -14,7 +14,6 @@ import { cn } from "@/lib/utils";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { appConfig } from '@/lib/appConfig'
-import AdsBanner from '@/components/AdsBanner'
 
 const inter = Inter({ subsets: ['latin'] })
 const sansFont = DM_Sans({
@@ -69,9 +68,6 @@ export default async function RootLayout({
           >
             <Layout>
               {children}
-              <div className="container mx-auto">
-                <AdsBanner />
-              </div>
             </Layout>
             <GoogleAdsenseScript />
             <GoogleAnalyticsScript />

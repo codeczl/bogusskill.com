@@ -353,23 +353,3 @@
   -webkit-text-stroke: 2px #000;
   color: #FF4D8D;
 }
-
-.ads-section {
-  @apply w-full max-w-6xl mx-auto my-8 px-4;
-}
-
-.ads-placeholder {
-  @apply bg-mystical rounded-lg p-6 text-center text-white-60;
-  @apply border-2 border-dashed border-white-20;
-  @apply transition-all duration-300;
-  @apply backdrop-blur-sm;
-}
-
-/* 广告容器的样式 */
-#container-5b554fd1d4e1b17be7b15fe64fe29aec {
-  @apply bg-mystical rounded-lg p-6;
-  @apply border border-white-10;
-  @apply transition-all duration-300;
-  @apply backdrop-blur-sm;
-  @apply min-h-[100px];
-}
