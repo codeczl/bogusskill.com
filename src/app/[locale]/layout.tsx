@@ -57,8 +57,8 @@ export default async function RootLayout({
     <html lang={locale} suppressHydrationWarning>
       <head>
         <meta name="google-adsense-account" content="ca-pub-8919061004428483" />
-        <link rel="icon" href={appConfig.siteImage.favicon} />
         <GoogleAdsenseScript />
+        <link rel="icon" href={appConfig.siteImage.favicon} />
       </head>
       <body className={cn(inter.className, sansFont.variable)}>
         <NextIntlClientProvider messages={messages}>
